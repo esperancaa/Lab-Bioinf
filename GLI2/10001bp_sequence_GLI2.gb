@@ -1,0 +1,357 @@
+LOCUS       NG_009030              10001 bp    DNA     linear   PRI 30-OCT-2022
+DEFINITION  Homo sapiens GLI family zinc finger 2 (GLI2), RefSeqGene on
+            chromosome 2.
+ACCESSION   NG_009030 REGION: 250000..260000
+VERSION     NG_009030.2
+KEYWORDS    RefSeq; RefSeqGene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 10001)
+  AUTHORS   Tekendo-Ngongang,C., Muenke,M. and Kruszka,P.
+  TITLE     Holoprosencephaly Overview
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301702
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC018866.9, AC017033.5,
+            KF510752.1, KF510212.1 and AC016764.8.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Sep 14, 2022 this sequence version replaced NG_009030.1.
+            
+            Summary: This gene encodes a protein which belongs to the C2H2-type
+            zinc finger protein subclass of the Gli family. Members of this
+            subclass are characterized as transcription factors which bind DNA
+            through zinc finger motifs. These motifs contain conserved H-C
+            links. Gli family zinc finger proteins are mediators of Sonic
+            hedgehog (Shh) signaling and they are implicated as potent
+            oncogenes in the embryonal carcinoma cell. The protein encoded by
+            this gene localizes to the cytoplasm and activates patched
+            Drosophila homolog (PTCH) gene expression. It is also thought to
+            play a role during embryogenesis. The encoded protein is associated
+            with several phenotypes- Greig cephalopolysyndactyly syndrome,
+            Pallister-Hall syndrome, preaxial polydactyly type IV, postaxial
+            polydactyly types A1 and B. [provided by RefSeq, Jul 2008].
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-752               AC018866.9         152232-152983
+            753-76087           AC017033.5         1-75335
+            76088-76481         KF510752.1         1-394               c
+            76482-150975        AC017033.5         75729-150222
+            150976-151189       KF510212.1         1-214
+            151190-182639       AC017033.5         150438-181887
+            182640-263786       AC016764.8         1-81147
+FEATURES             Location/Qualifiers
+     source          1..10001
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q14.2"
+     gene            <1..>10001
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="GLI family zinc finger 2"
+                     /db_xref="GeneID:2736"
+                     /db_xref="HGNC:HGNC:4318"
+                     /db_xref="MIM:165230"
+     mRNA            join(<1851..2015,3606..3878,5413..5749,7343..>10001)
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /product="GLI family zinc finger 2, transcript variant 3"
+                     /transcript_id="NM_001374353.1"
+                     /db_xref="GeneID:2736"
+                     /db_xref="HGNC:HGNC:4318"
+                     /db_xref="MIM:165230"
+     CDS             join(<1851..2015,3606..3878,5413..5749,7343..9810)
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="isoform 2 is encoded by transcript variant 3;
+                     tax-responsive element-2 holding protein; GLI-Kruppel
+                     family member GLI2; glioma-associated oncogene family zinc
+                     finger 2; tax helper protein 2; zinc finger protein GLI2;
+                     tax-responsive element-25-bp sequence binding protein;
+                     oncogene GLI2; tax helper protein 1; GLI family zinc
+                     finger protein 2"
+                     /codon_start=1
+                     /product="zinc finger protein GLI2 isoform 2"
+                     /protein_id="NP_001361282.1"
+                     /db_xref="CCDS:CCDS92850.1"
+                     /db_xref="GeneID:2736"
+                     /db_xref="HGNC:HGNC:4318"
+                     /db_xref="MIM:165230"
+                     /translation="METSASATASEKQEAKSGILEAAGFPDPGKKASPLVVAAAAAAA
+                     VAAQGVPQHLLPPFHAPLPIDMRHQEGRYHYEPHSVHGVHGPPALSGSPVISDISLIR
+                     LSPHPAGPGESPFNAPHPYVNPHMEHYLRSVHSSPTLSMISAARGLSPADVAQEHLKE
+                     RGLFGLPAPGTTPSDYYHQMTLVAGHPAPYGDLLMQSGGAASAPHLHDYLNPVDVSRF
+                     SSPRVTPRLSRKRALSISPLSDASLDLQRMIRTSPNSLVAYINNSRSSSAASGSYGHL
+                     SAGALSPAFTFPHPINPVAYQQILSQQRGLGSAFGHTPPLIQPSPTFLAQQPMALTSI
+                     NATPTQLSSSSNCLSDTNQNKQSSESAVSSTVNPVAIHKRSKVKTEPEGLRPASPLAL
+                     TQEQLADLKEDLDRDDCKQEAEVVIYETNCHWEDCTKEYDTQEQLVHHINNEHIHGEK
+                     KEFVCRWQACTREQKPFKAQYMLVVHMRRHTGEKPHKCTFEGCSKAYSRLENLKTHLR
+                     SHTGEKPYVCEHEGCNKAFSNASDRAKHQNRTHSNEKPYICKIPGCTKRYTDPSSLRK
+                     HVKTVHGPDAHVTKKQRNDVHLRTPLLKENGDSEAGTEPGGPESTEASSTSQAVEDCL
+                     HVRAIKTESSGLCQSSPGAQSSCSSEPSPLGSAPNNDSGVEMPGTGPGSLGDLTALDD
+                     TPPGADTSALAAPSAGGLQLRKHMTTMHRFEQLKKEKLKSLKDSCSWAGPTPHTRNTK
+                     LPPLPGSGSILENFSGSGGGGPAGLLPNPRLSELSASEVTMLSQLQERRDSSTSTVSS
+                     AYTVSRRSSGISPYFSSRRSSEASPLGAGRPHNASSADSYDPISTDASRRSSEASQCS
+                     GGSGLLNLTPAQQYSLRAKYAAATGGPPPTPLPGLERMSLRTRLALLDAPERTLPAGC
+                     PRPLGPRRGSDGPTYGHGHAGAAPAFPHEAPGGGARRASDPVRRPDALSLPRVQRFHS
+                     THNVNPGPLPPCADRRGLRLQSHPSTDGGLARGAYSPRPPSISENVAMEAVAAGVDGA
+                     GPEADLGLPEDDLVLPDDVVQYIKAHASGALDEGTGQVYPTESTGFSDNPRLPSPGLH
+                     GQRRMVAADSNVGPSAPMLGGCQLGFGAPSSLNKNNMPVQWNEVSSGTVDALASQVKP
+                     PPFPQGNLAVVQQKPAFGQYPGYSPQGLQASPGGLDSTQPHLQPRSGAPSQGIPRVNY
+                     MQQLRQPVAGSQCPGMTTTMSPHACYGQVHPQLSPSTISGALNQFPQSCSNMPAKPGH
+                     LGHPQQTEVAPDPTTMGNRHRELGVPDSALAGVPPPHPVQSYPQQSHHLAASMSQEGY
+                     HQVPSLLPARQPGFMEPQTGPMGVATAGFGLVQPRPPLEPSPTGRHRGVRAVQQQLAY
+                     ARATGHAMAAMPSSQETAEAVPKGAMGNMGSVPPQPPPQDAGGAPDHSMLYYYGQIHM
+                     YEQDGGLENLGSCQVMRSQPPQPQACQDSIQPQPLPSPGVNQVSSTVDSQLLEAPQID
+                     FDAIMDDGDHSSLFSGALSPSLLHSLSQNSSRLTTPRNSLTLPSIPAGISNMAVGDMS
+                     SMLTSLAEESKFLNMMT"
+     misc_feature    3651..3830
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10070.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    join(3870..3878,5413..5604)
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10070.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    5629..5631
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:Q0VGT2; propagated from
+                     UniProtKB/Swiss-Prot (P10070.4); phosphorylation site"
+     misc_feature    join(5680..5749,7343..7686)
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10070.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    5725..5727
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="N6-acetyllysine, by EP300.
+                     /evidence=ECO:0000269|PubMed:23762415; propagated from
+                     UniProtKB/Swiss-Prot (P10070.4); acetylation site"
+     misc_feature    7822..8139
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10070.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    8080..8082
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="Phosphoserine, by DYRK2.
+                     /evidence=ECO:0000269|PubMed:18455992; propagated from
+                     UniProtKB/Swiss-Prot (P10070.4); phosphorylation site"
+     misc_feature    8593..8694
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10070.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    9310..9372
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10070.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    9454..9543
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10070.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            1851..2015
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=11
+     exon            3606..3878
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=12
+     exon            5413..5749
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=13
+     exon            7343..>10001
+                     /gene="GLI2"
+                     /gene_synonym="CJS; HPE9; PHS2; THP1; THP2"
+                     /inference="alignment:Splign:2.1.0"
+                     /number=14
+ORIGIN      
+        1 ttgatccatt tggagttaat tttttttttt tttgagacag agtctccctc tgtcacccag
+       61 gctagagtgc aatagtgcca tcttggctca ctgcaacatc cgcatcccag gttcaagcga
+      121 ctctcctgcc tcagcctccg gagtagctgg gattacaggc acgcaccaca cgcctggcta
+      181 attttttgta tttttagtag agacggggtt tcaccatgat ggccaggctg gtcttgaact
+      241 cctaacctca ggtgatcccc ctgcctcagc ctcccaaagt gctaggatta caggcgtgag
+      301 ccaccacgcc caggctggag ttaatctttg tacatggtat gaggtaggga tccaaactta
+      361 ctcttttgca tgtgattacg cagttgtctg agtccatttg ctgaaaaatt gttctttcca
+      421 tttgaatggt cttggtatcc ttgtcaaaaa tcaattgacc ttaagtgtct gggtttcttt
+      481 ctgaactgcc agttatattg cctggatctc tatgtctctc tttatgtcag taccacatgc
+      541 agtctttatt actgtcaatt tgtaggaagt aaattggggc atatgagttc tccaaatttg
+      601 tcctcctttt gcaagatggt tctggctctt cagggttcat tgcaacaagt tattttctta
+      661 acatcctcag tagtggcaaa ccatagccct ttgatgatat gagctgtgag ttgtggaaac
+      721 agataaaagg cgtttggagc caagcatgct caatcagact ggtcaggaat aaaggggagg
+      781 atgggaggaa tgagacagct cctgccgggt gtacgtgtcc tcctgagggc ggttttcata
+      841 catccattca atgcaaccac agtatctttg gaatagctgc agagcttcct gcaatgatct
+      901 cttctttctc cccttcctcc cttcttccct ctctccccac ctcctttcct tccttcctct
+      961 ctcccttgct ccctcctttc ctccttccgt cctttccaaa aatgtttctt gagtgcctag
+     1021 atgctaaata ttaggaagac agcaatgaac aagacagaag attcctgctc tatggagctg
+     1081 gtattctagt aagaaggctg ggtaacaaaa tgattaagat cattataaat cgagccaagg
+     1141 ggtataaagg agagaggata gagtgttgtg attgagaata tcagaaaaat gctctcagag
+     1201 gagatgacct aaaagattga gagggaggga cctgggccag gaaccggatt gggtgggggc
+     1261 tgcagaagtt tccagccaga ggggtcggta gtatgcagag gccccaagcc agaaagaact
+     1321 tagtggagtc aaagaactga aaggagacca gcatgtccaa agtgaagatg agggtggccg
+     1381 actcactcaa ggacttgaag gactgaattt tattctcagc atgttttaga gcacaggaca
+     1441 attctaaccg agagtggtac tgggaaacag ttcaaagtca tagtttagag tttaatgata
+     1501 tgggaatatg ctgctgattt aaaaaaatag agtatgtaac tgaatacttg acatgttccc
+     1561 aattttggtt ttaaagacat gtggagatga attgcagact caccagaatg aaacttacct
+     1621 gcgtgtcagc agtagcagcc cctgggcgac cggtggtttt catttttctc tttgtacctt
+     1681 tcagcccttt ccatgttttc aggaaaggaa agtaatatcc ttaaaatgca tgcttctgag
+     1741 tgcgctgacg ggttggagca gagcagagaa gggggtgggg aggaagcagc agccggcctc
+     1801 aaggttgggc cccctggggt gccttgactg actgaaccgc ctccttctag ttcgagggct
+     1861 gctcgaaggc ctactcccgc ctggagaacc tgaagacaca cctgcggtcc cacaccgggg
+     1921 agaagccata tgtgtgtgag cacgagggct gcaacaaagc cttctccaac gcctcggacc
+     1981 gcgccaagca ccagaatcgc acccactcca acgaggtacc tctgcggggc atgcactggg
+     2041 catgcacact ggggccccac tgacgcccca tggcttccag gcatctgtag tccagtagat
+     2101 agccaggtgc cccatgtccc gcccccgcca ctgaccagct atacatcctc agatacagac
+     2161 caggactctt tgagacctag acagaccggt ctctttctct atgccacatc ctttcctcta
+     2221 aaagatgccc cgtgaggtcc catggcatac tgaccctctc tgtgcctcaa tttccttatc
+     2281 tccataataa atataatagt gccctcccca aaggccatca tgaggtcctc gagagttgaa
+     2341 gttgaagcag ggaagtggcc cttctgatct cggagtgttt aacatgcatc tgctccctat
+     2401 tacttggggc tgctgggtgg gctctgcctc cccatcctct agatgaggaa acgaagactc
+     2461 agagatgaag tgactttccc cagtgccaga gcagtgatga tccctctgca gctgtgaaaa
+     2521 catcctgggt cactgctccc cacccccaaa ttccctttcc accacaagca ggtgttccac
+     2581 tggggagcag ctgccccact gcctgaggga agcagagcag tgctgtctga gcttggcgtt
+     2641 tgttggtagc cccctggcct gttggcttgg gcagccagca gtgacatgct ccagctgtta
+     2701 gcgctgcctg ggcctgccgt ggctgtcagc cccagcagat ggggcacaga gcagcctctg
+     2761 tctccctggg taggcagagc ccctatctgg gctgagagaa ccagggagaa agcagggcaa
+     2821 gagccggtgg catcctggcc cagccacaca attactgtcg ctcaggctta ctcggaaatg
+     2881 tatgttttta aaagcttaga catatcctgg accccaaagg gactttgctc caatgcttgt
+     2941 aagaagttag aggaattttc aaaggcatct gaacccctca gagtctctat ggacaagagc
+     3001 cagccttaga ggggagtgtg tgtgcacatg tgtgtatgtg tgtttgtaag tgtatgtttt
+     3061 tctgtagacg tggtgtgtgg ggtgtgtgtg tgtgtgtgtg tgtgtgtgtg tgtgcatgtt
+     3121 tatgagtcca ggactgaggt tcggaaatcc tgggtttttt caccccatta ctggatgact
+     3181 tggaacctgt tcctttgcct ccctgatcct gcctttcttc atcagagaaa tcaggggtgc
+     3241 tagtgctgtc agagggtaca ctgagctcgt acacttgcta ctagtactaa aaaccccact
+     3301 gccctgttca ttgagaggca gcattgtgat tacacgaggc acatgtgtcc ccagcttctt
+     3361 gtggcaggac cccccgtggc cgtgtgctta actgcatgaa caggtgcaga caagccaggc
+     3421 tatggccagg ctcctgcatg gtgccatcca cagagcactg gctgcaaatt tgacacagca
+     3481 cctactgacg ttgccagctg ggctctgctg aggggcgtgg gtagcttcag gagaacaggg
+     3541 agagcgcccc ttcagagttg atcctcgtac ccctatccat gacacaggcc tgcttctctc
+     3601 cccagaaacc ctacatctgc aagatcccag gctgcaccaa gagatacaca gaccccagct
+     3661 ctctccggaa gcatgtgaaa acggtccacg gcccagatgc ccacgtcacc aagaagcagc
+     3721 gcaatgacgt gcacctccgc acaccgctgc tcaaagagaa tggggacagt gaggccggca
+     3781 cggagcctgg cggcccagag agcaccgagg ccagcagcac cagccaggcc gtggaggact
+     3841 gcctgcacgt cagagccatc aagaccgaga gctccggggt aagcggagct gggcagccca
+     3901 gccacgcaag gcgactccat agccgtgccc agggccaccc cttgccacgg ttgcgggctc
+     3961 tgccctaagg cccccctcta ggggcacagc gatatccctc ctctctccaa cttggctttc
+     4021 ccccttcacc accttgggcc tcacatggaa cctatcttgt ccaggtccca ttctgctctg
+     4081 accaggctcc tgctgggtgt gtggcagcac gctgggtgac agggatgccg ccctgtacgg
+     4141 tgggcctgca cagggcgggg gtggcccctg caagtctgcc tttccagcca gcacccaagt
+     4201 gccactgcca gcccccactc ctctgtcctg tctctgcatc cccacccctc tggcgtccac
+     4261 tccttttgtt ctaaccacct gttctttgtc tccatctctt tttcctgact gtacctcccc
+     4321 taaggataga cggtactgag gtgagccaag gagctgggca tgtgtgggtg ggctggggga
+     4381 gtgagggtgg ctggggagcc ggtccatgct gctgcctggc agagactcac ctgtcagtct
+     4441 aggcctccta ggcccaggca ggtgggcccg gacaggcaca cggcagggca ctgcaggtgg
+     4501 ggccattggc cttggcagcc ggagtggaac tggcaggtgt ggggagcagg ggcgccaggc
+     4561 tgtatcaggg acagagtgac agggaggcat gcgtctaggc tacagaaggt cctgagggtc
+     4621 aaacagaaaa atgtgggtgg cgccatggac aacacctaga aggtccctgc tcccattaag
+     4681 cctgtgtcct catgggaagg aagatcatgc cttcccaaga aagctggaat ttggggccat
+     4741 ttggcctaac aatgagccca gaggtggtgg tgcatctggt gcaagcctca tctgggccca
+     4801 gatccgagtt ctgtggatgt cgtccgagtg gatgttgtcc gagttctgtg gcattctgca
+     4861 ctgtgtacat gtgccatgag ctccctgccc cactctacct aacccagagg gaagactgtt
+     4921 ttggggtggc cctttacaca agggctgcat cccacaggtc cccctcctgg tcatcctttc
+     4981 cctttcccac aacctgcccc tggccttttg agatcatcct gtctggttga agccaccaag
+     5041 tcagcaggct tcattcctca cctcatcagg gtacatggct gttggtggga gtgtttaagt
+     5101 gccttccttt gtgccatact gggtgccttc tgcacgctgc gtgctgtcca cccacccact
+     5161 aactctgcac cggaatcagt tcaggtccat ctcatagttg gggaagccaa ggttaagaga
+     5221 agtgaagtga cttgaccgtt ttaagcaaac agactcatga cgctttacgt gctcctccgc
+     5281 aaggcagctt ccttccctca ccctcagccc ctcagggtgg gcgagggtgt ggtgcctgtg
+     5341 caggcctaga ggcaggacca ggtggaatct gataccctct gagtctgagc cttcttgcct
+     5401 cgtcccctgc agctgtgtca gtccagcccc ggggcccagt cgtcctgcag cagcgagccc
+     5461 tctcctctgg gcagtgcccc caacaatgac agtggcgtgg agatgccggg gacggggccc
+     5521 gggagcctgg gagacctgac ggcactggat gacacacccc caggggccga cacctcagcc
+     5581 ctggctgccc cctccgctgg tggcctccag ctgcgcaaac acatgaccac catgcaccgg
+     5641 ttcgagcagc tcaagaagga gaagctcaag tcactcaagg attcctgctc atgggccggg
+     5701 ccgactccac acacgcggaa caccaagctg cctcccctcc cgggaagtgg tgagtaaagg
+     5761 cctggggttt gcagatgggg cagaagagag tctggggcag caccaactag gctggcaccc
+     5821 accaagcacc agtgctatct caccggattc ctacaggatc ttaccagccc agtacagaaa
+     5881 aggaaactga ggctcagaga ggtgaaatgc cttacccaaa tcaatggcag gggtgagatt
+     5941 agccaaaggc catgctcttt caactgcacc attctgagtc cttataaccc cccaaaacaa
+     6001 gcagaccctg cgcacatcat cctcttcctc acccattcat tccttcactg atgaggcact
+     6061 tgctgtgggc accatggcaa aggccctagg caggagagcc atttaattcc agtcccaaag
+     6121 gagcgtatgg ttagaaggct gtgccaccag attcacactc tactgcagaa cgagccaggt
+     6181 accaccaaag ccagagctta gggtagagct gtgcagagga aggagaaagc acattgagct
+     6241 ggggatgagc agggaggact tcatggcgga ggcagcactg tgctcagtct caagaggtgt
+     6301 tggccaggct ctgagatgga aggcgtcttt aacgagcatg tcttgggtac tgactctgtg
+     6361 cctaggattg tgccgggctg cccactgtgg tcaacactga tgtaccacct gctctcactt
+     6421 gaagggagga tttgttgtcc caacttgtgg ggactactgg caaatggcct tgaactctca
+     6481 gccccctaca gggatgtcct gggttgcaga cagatgcccc acccaaggtc accccttccc
+     6541 agcagccccg catgcaatga ctggtcactg caggagtgta aaggcccagc catcaagatg
+     6601 aggctcagag aggtgcccaa ctcagggcag cactgaagag ccattggggg tcctgggctc
+     6661 cctgtgagat catcctgggc tcacgtctcc tctgcccact cttgcagcct gtctttcctt
+     6721 ccatgggtat ggacctcagg gtactccctg taataacctg ctccttaaac tccatctcag
+     6781 ggacgcctag gtggcaccac ctccacagac tgtgagggta ctgtgccagg agaccaacct
+     6841 gggccttcct gagctgctca tcccctcctc tgcgtaactc agtcctacgg agaggcacat
+     6901 ttatctacag ctagagaaac tgagggccag agaaaggaga attcaaggcc agacagataa
+     6961 tggtaaagtg aagataggga cttaggcctc ctggcttccc ctcgcccacc cttagcaata
+     7021 agtgccacca tttgtttaca tattgctttt tccttcccct ttttaattga aaaaccatct
+     7081 gctcactggg cacggtggcc cacgtatgcc ctagctactc cagagtctga ggagggagga
+     7141 tcccttgagc ccaggagttc aaggccagcc tgggaaatcc tgtctctaaa aagagaaaga
+     7201 gagaaagaaa gcatgcatct cctgagtgcg ctgtgttgca agccctcttc tcgggctcca
+     7261 ggcccagtgc gatgactgag cacggtcaaa gcaagcagcc acccaccctt gtcccggtgc
+     7321 tgacccctct gctctcccgc aggctccatc ctggaaaact tcagtggcag tgggggcggc
+     7381 gggcccgcgg ggctgctgcc gaacccgcgg ctgtcggagc tgtccgcgag cgaggtgacc
+     7441 atgctgagcc agctgcagga gcgccgcgac agctccacca gcacggtcag ctcggcctac
+     7501 accgtgagcc gccgctcctc cggcatctcc ccctacttct ccagccgccg ctccagcgag
+     7561 gcctcgcccc tgggcgccgg ccgcccgcac aacgcgagct ccgctgactc ctacgacccc
+     7621 atctccacgg acgcgtcgcg gcgctcgagc gaggccagcc agtgcagcgg cggctccggg
+     7681 ctgctcaacc tcacgccggc gcagcagtac agcctgcggg ccaagtacgc ggcagccact
+     7741 ggcggccccc cgcccactcc gctgccgggc ctggagcgca tgagcctgcg gaccaggctg
+     7801 gcgctgctgg acgcgcccga gcgcacgctg cccgccggct gcccacgccc actggggccg
+     7861 cggcgtggca gcgacgggcc gacctatggc cacggccacg cgggggctgc gcccgccttc
+     7921 ccccacgagg ctccaggcgg cggagccagg cgggccagcg accctgtgcg gcggcccgat
+     7981 gccctgtccc tgccgcgggt gcagcgcttc cacagcaccc acaacgtgaa ccccggcccg
+     8041 ctgccgccct gtgccgacag gcgaggcctc cgcctgcaga gccacccgag caccgacggc
+     8101 ggcctggccc gcggcgccta ctcgccccgg ccgcctagca tcagcgagaa cgtggcgatg
+     8161 gaggccgtgg cggcaggagt ggacggcgcg gggcccgagg ccgacctggg gctgccggag
+     8221 gacgacctgg tgcttccaga cgacgtggtg cagtacatca aggcgcacgc cagtggcgct
+     8281 ctggacgagg gcaccgggca ggtgtatccc acggaaagca ctggcttctc tgacaacccc
+     8341 agactaccca gcccggggct gcacggccag cgcaggatgg tggctgcgga ctccaacgtg
+     8401 ggcccctccg cccctatgct gggaggatgc cagttaggct ttggggcgcc ctccagcctg
+     8461 aacaaaaata acatgcctgt gcagtggaat gaggtgagct ccggcaccgt agacgccctg
+     8521 gccagccagg tgaagcctcc accctttcct cagggcaacc tggcggtggt gcagcagaag
+     8581 cctgcctttg gccagtaccc gggctacagt ccgcaaggcc tacaggctag ccctgggggc
+     8641 ctggacagca cgcagccaca cctgcagccc cgcagcggag ccccctccca gggcatcccc
+     8701 agggtaaact acatgcagca gctgcgacag ccagtggcag gcagccagtg tcctggcatg
+     8761 actaccacta tgagccccca tgcctgctat ggccaagtcc acccccagct gagccccagc
+     8821 accatcagtg gggccctcaa ccagttcccc caatcctgca gcaacatgcc agccaagcca
+     8881 gggcatctgg ggcaccctca gcagacagaa gtggcacctg accccaccac gatgggcaat
+     8941 cgccacaggg aacttggggt ccccgattca gccctggctg gagtgccacc acctcaccca
+     9001 gtccagagct acccacagca gagccatcac ctggcagcct ccatgagcca ggagggctac
+     9061 caccaggtcc ccagccttct gcctgcccgc cagcctggct tcatggagcc ccaaacaggc
+     9121 ccgatggggg tggctacagc aggctttggc ctagtgcagc cccggcctcc cctcgagccc
+     9181 agccccactg gccgccaccg tggggtacgt gctgtgcagc agcagctggc ctacgccagg
+     9241 gccacaggcc atgccatggc tgccatgccg tccagtcagg aaacagcaga ggctgtgccc
+     9301 aagggagcga tgggcaacat ggggtcggtg cctccccagc cgcctccgca ggacgcaggt
+     9361 ggggccccgg accacagcat gctctactac tacggccaga tccacatgta cgaacaggat
+     9421 ggaggcctgg agaacctcgg gagctgccag gtcatgcggt cccagccacc acagccacag
+     9481 gcctgtcagg acagcatcca gccccagccc ttgccctcac caggggtcaa ccaggtgtcc
+     9541 agcactgtgg actcccagct cctggaggcc ccccagattg acttcgatgc catcatggat
+     9601 gatggcgatc actcgagttt gttctcgggt gctctgagcc ccagcctcct ccacagcctc
+     9661 tcccagaact cctcccgcct caccaccccc cgaaactcct tgaccctgcc ctccatcccc
+     9721 gcaggcatca gcaacatggc tgtcggggac atgagctcca tgctcaccag cctcgccgag
+     9781 gagagcaagt tcctgaacat gatgacctag aggcccgagc gcctggtgct gagtgcaccc
+     9841 ggaggggtca tcgctgccca gagcctgggg attccagctg tcttgtcttt ttccaaaaaa
+     9901 gtgttaaata ggcttgaggg gttgttgcgc aatggccgct tcagatgaca gatgttgtaa
+     9961 gagaaggttt atgggcatcc tctctggtct tttggattat t
+//
+
