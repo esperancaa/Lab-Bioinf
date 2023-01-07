@@ -6,7 +6,10 @@ Our group decided to completely automate the initial part of the investigation a
 -Searching for literature, 
 -finding the nucleotide and proteic sequence 
 The automation of the process consists in getting all the info from Biopython scripts, instead of jumping from Web to Web browser searches. So, all 
-necessary information (filtered by algorythms) is saved in files, with the necessary format.
+necessary information (filtered by algorythms) is saved in files, with the necessary format. This made possible to analyse several things at the same
+time for all found proteins (of different organisms) and compare them with each other and with the phylogenetic tree. 
+-Protein function
+-Subcelular location
 
 Next, we used the filtered files directly in:
 -Motif MEME
