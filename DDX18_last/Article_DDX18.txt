@@ -1,0 +1,1146 @@
+PMID- 33489896
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220420
+IS  - 2234-943X (Print)
+IS  - 2234-943X (Electronic)
+IS  - 2234-943X (Linking)
+VI  - 10
+DP  - 2020
+TI  - The RNA-Binding Protein DDX18 Promotes Gastric Cancer by Affecting the Maturation 
+      of MicroRNA-21.
+PG  - 598238
+LID - 10.3389/fonc.2020.598238 [doi]
+LID - 598238
+AB  - OBJECTIVES: The noncoding RNAs (ncRNAs) play important roles in gastric cancer. 
+      Most studies have focused on the functions and influence of ncRNAs, but seldom on 
+      their maturation. DEAD box genes are a family of RNA-binding proteins that may 
+      influence the development of ncRNAs, which attracted our attention. By combining 
+      a small sample for high-throughput gene microarray screening with large samples 
+      of The Cancer Genome Atlas (TCGA) data and our cohort, we aimed to find some 
+      gastric cancer-related genes. We evaluated the clinical significance and 
+      prognostic value of candidate gene DDX18, which is overexpressed in gastric 
+      cancer tissues. To provide a theoretical basis for the development of new 
+      therapeutic targets for the treatment of gastric cancer, we investigated its 
+      effect on the malignant biological behavior of gastric cancer in vitro and in 
+      vivo, and also discuss its mechanism of action. METHODS: (i) The differential 
+      profiling of mRNA expression in five pairs of gastric cancer and adjacent normal 
+      tissues was studied by Arraystar Human mRNA Microarray. By combining this with 
+      TCGA data and our cohort, we finally filtered out DDX18, which was upregulated in 
+      gastric cancer tissues, for further investigation. (ii) The protein expression of 
+      DDX18 was detected by immunohistochemistry staining. Then the relationship 
+      between the DDX18 expression level and the clinicopathological data and prognosis 
+      was analyzed. (iii) A CCK-8 assay and colony formation assay were used to 
+      evaluate the effect of DDX18 on cell growth and proliferation in vitro. A 
+      transwell assay was also performed to examine the migration and invasion of 
+      gastric cancer cells. Cell apoptosis was analyzed by using a fluorescein 
+      isothiocyanate-annexin V/propidium iodide double-staining assay. To identify the 
+      role of DDX18 in the tumorigenic ability of gastric cancer cells in vivo, we also 
+      established a subcutaneous gastric cancer xenograft model. Coimmunoprecipitation, 
+      small RNAseq, and western blotting were performed to explore the mechanism of 
+      action of DDX18 in gastric cancer. A patient-derived xenograft (PDX) model was 
+      used to confirm the effect of DDX18 in gastric cancer tissues. RESULT: (i) DDX18 
+      was upregulated in gastric cancer tumor tissues from a TCGA database and our 
+      cohort. The expression of DDX18 was also closely related to tumor volume, 
+      Borrmann classification, degree of tumor differentiation, cancer embolus, lymph 
+      node metastasis, and TNM stage. (ii) DDX18 could promote cell proliferation, 
+      migration, and invasion and inhibit cell apoptosis in vivo and in vitro. (iii) 
+      DDX18 could promote the maturation of microRNA-21 through direct interaction with 
+      Drosha, decreasing PTEN, which could upregulate the AKT signaling pathway. (iv) 
+      The PDX model showed that DDX18 could promote the proliferation of gastric cancer 
+      tissues by means of the PTEN-AKT signaling pathway. CONCLUSIONS: (i) DDX18 can be 
+      treated as a molecular marker to assess the prognosis of patients with gastric 
+      cancer. (ii) DDX18 could be a potential therapeutic target in gastric cancer.
+CI  - Copyright © 2021 Zhang, Yu, Ni, Li, Bae, Choi, Yang, Kong and Zhu.
+FAU - Zhang, Yeqian
+AU  - Zhang Y
+AD  - Department of Gastrointestinal Surgery, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+AD  - State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer Institute, 
+      Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, 
+      China.
+FAU - Yu, Fengrong
+AU  - Yu F
+AD  - Department of Gastrointestinal Surgery, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+FAU - Ni, Bo
+AU  - Ni B
+AD  - Department of Gastrointestinal Surgery, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+AD  - State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer Institute, 
+      Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, 
+      China.
+FAU - Li, Qing
+AU  - Li Q
+AD  - State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer Institute, 
+      Renji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, 
+      China.
+FAU - Bae, Seong-Woo
+AU  - Bae SW
+AD  - Department of Surgery, Seoul National University Hospital, Seoul, South Korea.
+FAU - Choi, Jong-Ho
+AU  - Choi JH
+AD  - Department of Surgery, Seoul National University Hospital, Seoul, South Korea.
+FAU - Yang, Han-Kwang
+AU  - Yang HK
+AD  - Department of Surgery, Seoul National University Hospital, Seoul, South Korea.
+AD  - CancerResearch Institute, Seoul National University, Seoul, South Korea.
+FAU - Kong, Seong-Ho
+AU  - Kong SH
+AD  - Department of Surgery, Seoul National University Hospital, Seoul, South Korea.
+AD  - CancerResearch Institute, Seoul National University, Seoul, South Korea.
+FAU - Zhu, Chunchao
+AU  - Zhu C
+AD  - Department of Gastrointestinal Surgery, Renji Hospital, School of Medicine, 
+      Shanghai Jiao Tong University, Shanghai, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20210108
+PL  - Switzerland
+TA  - Front Oncol
+JT  - Frontiers in oncology
+JID - 101568867
+PMC - PMC7821424
+OTO - NOTNLM
+OT  - DEAD box family
+OT  - Drosha-independent miRNA
+OT  - PTEN (phosphatase and tensin homolog deleted on chromosome 10)
+OT  - gastric cacner
+OT  - ncRNA (noncoding RNA)
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2021/01/26 06:00
+MHDA- 2021/01/26 06:01
+CRDT- 2021/01/25 05:44
+PHST- 2020/08/24 00:00 [received]
+PHST- 2020/11/06 00:00 [accepted]
+PHST- 2021/01/25 05:44 [entrez]
+PHST- 2021/01/26 06:00 [pubmed]
+PHST- 2021/01/26 06:01 [medline]
+AID - 10.3389/fonc.2020.598238 [doi]
+PST - epublish
+SO  - Front Oncol. 2021 Jan 8;10:598238. doi: 10.3389/fonc.2020.598238. eCollection 
+      2020.
+
+PMID- 18351129
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080522
+LR  - 20191110
+IS  - 0965-0407 (Print)
+IS  - 0965-0407 (Linking)
+VI  - 16
+IP  - 12
+DP  - 2007
+TI  - Cellular studies of MrDb (DDX18).
+PG  - 549-56
+AB  - Helicases are present in viruses, prokaryotes, and eukaryotes, and several of 
+      them have been linked to human diseases. Here we study the role of one putative 
+      DEAD-box RNA helicase, MrDb (DDX18), in tumor cells. We show that MrDb is a 
+      nucleolar protein ubiquitously expressed in tumor cells and that it is more 
+      abundantly expressed in proliferating cells. Inhibition of MrDb with dominant 
+      negative mutant or a shRNA reduces tumor cell proliferation without inducing a 
+      cell cycle arrest or apoptosis. These findings suggest that MrDb is important for 
+      cell proliferation and that its inhibition could prevent tumor cell 
+      proliferation.
+FAU - Dubaele, Sandy
+AU  - Dubaele S
+AD  - Druggability-Enzymology-Profiling Unit, Oncology Research, Novartis Institutes 
+      for BioMedical Research, CH-4002 Basel, Switzerland.
+FAU - Chène, Patrick
+AU  - Chène P
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Oncol Res
+JT  - Oncology research
+JID - 9208097
+RN  - 63231-63-0 (RNA)
+RN  - EC 3.6.1.- (DDX18 protein, human)
+RN  - EC 3.6.4.13 (DEAD-box RNA Helicases)
+SB  - IM
+MH  - Apoptosis/physiology
+MH  - Cell Cycle/physiology
+MH  - Cell Line, Tumor
+MH  - *Cell Proliferation
+MH  - DEAD-box RNA Helicases/*metabolism
+MH  - Drug Delivery Systems
+MH  - Gene Expression/*physiology
+MH  - Humans
+MH  - Mutation
+MH  - RNA/metabolism
+EDAT- 2008/03/21 09:00
+MHDA- 2008/05/23 09:00
+CRDT- 2008/03/21 09:00
+PHST- 2008/03/21 09:00 [pubmed]
+PHST- 2008/05/23 09:00 [medline]
+PHST- 2008/03/21 09:00 [entrez]
+AID - 10.3727/000000007783630015 [doi]
+PST - ppublish
+SO  - Oncol Res. 2007;16(12):549-56. doi: 10.3727/000
+
+PMID- 34603195
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211223
+LR  - 20211223
+IS  - 1664-2392 (Print)
+IS  - 1664-2392 (Electronic)
+IS  - 1664-2392 (Linking)
+VI  - 12
+DP  - 2021
+TI  - Non-Coding RNA as Biomarkers for Type 2 Diabetes Development and Clinical 
+      Management.
+PG  - 630032
+LID - 10.3389/fendo.2021.630032 [doi]
+LID - 630032
+AB  - Diabetes, a metabolic disease characterized by high blood glucose and other 
+      complications, has undefined causes and multiple risk factors, including 
+      inappropriate diet, unhealthy lifestyles, and genetic predisposition. The two 
+      most distinguished types of diabetes are type 1 and type 2 diabetes, resulting 
+      from the autoimmune impairment of insulin-generating pancreatic β cells and 
+      insulin insensitivity, respectively. Non-coding RNAs (ncRNAs), a cohort of RNAs 
+      with little transcriptional value, have been found to exert substantial 
+      importance in epigenetic and posttranscriptional modulation of gene expression 
+      such as messenger RNA (mRNA) silencing. This review mainly focuses on the 
+      pathology of type 2 diabetes (T2D) and ncRNAs as potential biomarkers in T2D 
+      development and clinical management. We consolidate the pathogenesis, diagnosis, 
+      and current treatments of T2D, and present the existing evidence on changes in 
+      multiple types of ncRNAs in response to various pathological changes and 
+      dysfunctions in different stages of T2D.
+CI  - Copyright © 2021 Chi, Lin, Wang, Zhao, Liao and Wei.
+FAU - Chi, Tiange
+AU  - Chi T
+AD  - School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, 
+      Beijing, China.
+AD  - First Clinical Medical College, Beijing University of Chinese Medicine, Beijing, 
+      China.
+FAU - Lin, Jiaran
+AU  - Lin J
+AD  - Department of Nephrology and Endocrinology, Dongzhimen Hospital Affiliated to 
+      Beijing University of Chinese Medicine, Beijing, China.
+AD  - Graduate School, Beijing University of Chinese Medicine, Beijing, China.
+FAU - Wang, Mina
+AU  - Wang M
+AD  - Graduate School, Beijing University of Chinese Medicine, Beijing, China.
+AD  - Department of Acupuncture and Moxibustion, Beijing Hospital of Traditional 
+      Chinese Medicine, Capital Medical University, Beijing Key Laboratory of 
+      Acupuncture Neuromodulation, Beijing, China.
+FAU - Zhao, Yihan
+AU  - Zhao Y
+AD  - Graduate School, Beijing University of Chinese Medicine, Beijing, China.
+FAU - Liao, Zehuan
+AU  - Liao Z
+AD  - School of Biological Sciences, Nanyang Technological University, Singapore, 
+      Singapore.
+AD  - Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska Institutet, 
+      Stockholm, Sweden.
+FAU - Wei, Peng
+AU  - Wei P
+AD  - School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, 
+      Beijing, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210917
+PL  - Switzerland
+TA  - Front Endocrinol (Lausanne)
+JT  - Frontiers in endocrinology
+JID - 101555782
+RN  - 0 (Biomarkers)
+RN  - 0 (RNA, Untranslated)
+SB  - IM
+MH  - Animals
+MH  - Biomarkers/*analysis
+MH  - Diabetes Mellitus, Type 2/genetics/*pathology/*therapy
+MH  - *Gene Expression Regulation
+MH  - Humans
+MH  - RNA, Untranslated/*genetics
+PMC - PMC8484715
+OTO - NOTNLM
+OT  - biomarker
+OT  - circRNAs
+OT  - diabetes
+OT  - lncRNAs
+OT  - miRNAs
+OT  - ncRNAs
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2021/10/05 06:00
+MHDA- 2021/12/24 06:00
+CRDT- 2021/10/04 05:57
+PHST- 2020/11/16 00:00 [received]
+PHST- 2021/08/10 00:00 [accepted]
+PHST- 2021/10/04 05:57 [entrez]
+PHST- 2021/10/05 06:00 [pubmed]
+PHST- 2021/12/24 06:00 [medline]
+AID - 10.3389/fendo.2021.630032 [doi]
+PST - epublish
+SO  - Front Endocrinol (Lausanne). 2021 Sep 17;12:630032. doi: 
+      10.3389/fendo.2021.630032. eCollection 2021.
+
+PMID- 33479058
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210823
+LR  - 20220907
+IS  - 1939-327X (Electronic)
+IS  - 0012-1797 (Print)
+IS  - 0012-1797 (Linking)
+VI  - 70
+IP  - 4
+DP  - 2021 Apr
+TI  - The First Genome-Wide Association Study for Type 2 Diabetes in Youth: The 
+      Progress in Diabetes Genetics in Youth (ProDiGY) Consortium.
+PG  - 996-1005
+LID - 10.2337/db20-0443 [doi]
+AB  - The prevalence of type 2 diabetes in youth has increased substantially, yet the 
+      genetic underpinnings remain largely unexplored. To identify genetic variants 
+      predisposing to youth-onset type 2 diabetes, we formed ProDiGY, a multiethnic 
+      collaboration of three studies (TODAY, SEARCH, and T2D-GENES) with 3,006 youth 
+      case subjects with type 2 diabetes (mean age 15.1 ± 2.9 years) and 6,061 
+      diabetes-free adult control subjects (mean age 54.2 ± 12.4 years). After 
+      stratifying by principal component-clustered ethnicity, we performed association 
+      analyses on ∼10 million imputed variants using a generalized linear mixed model 
+      incorporating a genetic relationship matrix to account for population structure 
+      and adjusting for sex. We identified seven genome-wide significant loci, 
+      including the novel locus rs10992863 in PHF2 (P = 3.2 × 10(-8); odds ratio [OR] = 
+      1.23). Known loci identified in our analysis include rs7903146 in TCF7L2 (P = 8.0 
+      × 10(-20); OR 1.58), rs72982988 near MC4R (P = 4.4 × 10(-14); OR 1.53), 
+      rs200893788 in CDC123 (P = 1.1 × 10(-12); OR 1.32), rs2237892 in KCNQ1 (P = 4.8 × 
+      10(-11); OR 1.59), rs937589119 in IGF2BP2 (P = 3.1 × 10(-9); OR 1.34), and 
+      rs113748381 in SLC16A11 (P = 4.1 × 10(-8); OR 1.04). Secondary analysis with 856 
+      diabetes-free youth control subjects uncovered an additional locus in CPEB2 (P = 
+      3.2 × 10(-8); OR 2.1) and consistent direction of effect for diabetes risk. In 
+      conclusion, we identified both known and novel loci in the first genome-wide 
+      association study of youth-onset type 2 diabetes.
+CI  - © 2021 by the American Diabetes Association.
+FAU - Srinivasan, Shylaja
+AU  - Srinivasan S
+AD  - Division of Pediatric Endocrinology, University of California, San Francisco, San 
+      Francisco, CA.
+FAU - Chen, Ling
+AU  - Chen L
+AD  - Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA.
+FAU - Todd, Jennifer
+AU  - Todd J
+AD  - Division of Pediatric Endocrinology, University of Vermont, Burlington, VT.
+FAU - Divers, Jasmin
+AU  - Divers J
+AD  - NYU Langone Health, New York, NY.
+FAU - Gidding, Samuel
+AU  - Gidding S
+AD  - Genomic Medicine Institute, Geisinger, Danville, PA.
+FAU - Chernausek, Steven
+AU  - Chernausek S
+AUID- ORCID: 0000-0002-9927-4460
+AD  - Pediatric Diabetes and Endocrinology Section, University of Oklahoma College of 
+      Medicine, Oklahoma City, OK.
+FAU - Gubitosi-Klug, Rose A
+AU  - Gubitosi-Klug RA
+AUID- ORCID: 0000-0002-7376-6870
+AD  - Pediatric Endocrinology, Diabetes, and Metabolism, Case Western Reserve 
+      University and Rainbow Babies and Children's Hospital, Cleveland, OH.
+FAU - Kelsey, Megan M
+AU  - Kelsey MM
+AUID- ORCID: 0000-0002-0755-1951
+AD  - Pediatric Endocrinology, University of Colorado School of Medicine, Aurora, CO.
+FAU - Shah, Rachana
+AU  - Shah R
+AD  - Pediatric Endocrinology and Diabetes, Children's Hospital of Philadelphia, 
+      Philadelphia, PA.
+FAU - Black, Mary Helen
+AU  - Black MH
+AD  - Janssen Pharmaceuticals, Spring House, PA.
+FAU - Wagenknecht, Lynne E
+AU  - Wagenknecht LE
+AD  - Public Health Sciences, Wake Forest School of Medicine, Winston-Salem, NC.
+FAU - Manning, Alisa
+AU  - Manning A
+AD  - Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA.
+AD  - Program in Medical and Population Genetics, Broad Institute of Harvard and 
+      Massachusetts Institute of Technology, Cambridge, MA.
+FAU - Flannick, Jason
+AU  - Flannick J
+AD  - Program in Medical and Population Genetics, Broad Institute of Harvard and 
+      Massachusetts Institute of Technology, Cambridge, MA.
+AD  - Department of Pediatrics, Boston Children's Hospital, Boston, MA.
+FAU - Imperatore, Giuseppina
+AU  - Imperatore G
+AD  - Centers for Disease Control and Prevention, Atlanta, GA.
+FAU - Mercader, Josep M
+AU  - Mercader JM
+AD  - Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA.
+AD  - Program in Medical and Population Genetics, Broad Institute of Harvard and 
+      Massachusetts Institute of Technology, Cambridge, MA.
+AD  - Diabetes Research Center, Diabetes Unit, Department of Medicine, Massachusetts 
+      General Hospital, Boston, MA.
+FAU - Dabelea, Dana
+AU  - Dabelea D
+AUID- ORCID: 0000-0001-9514-8929
+AD  - Department of Epidemiology, University of Colorado School of Public Health, 
+      Aurora, CO.
+FAU - Florez, Jose C
+AU  - Florez JC
+AUID- ORCID: 0000-0002-1730-9325
+CN  - ProDiGY Consortium
+LA  - eng
+SI  - figshare/10.2337/figshare.13607852
+GR  - R01 DK078616/DK/NIDDK NIH HHS/United States
+GR  - HHSN268201500001C/HL/NHLBI NIH HHS/United States
+GR  - UL1 RR025780/RR/NCRR NIH HHS/United States
+GR  - U01 DP000244/DP/NCCDPHP CDC HHS/United States
+GR  - U01 DK085526/DK/NIDDK NIH HHS/United States
+GR  - U18 DP002709/DP/NCCDPHP CDC HHS/United States
+GR  - N01HC25195/HL/NHLBI NIH HHS/United States
+GR  - R01 DK125490/DK/NIDDK NIH HHS/United States
+GR  - U01 DK061254/DK/NIDDK NIH HHS/United States
+GR  - UL1 RR024139/RR/NCRR NIH HHS/United States
+GR  - UL1 RR024989/RR/NCRR NIH HHS/United States
+GR  - P30 DK057516/DK/NIDDK NIH HHS/United States
+GR  - R01 NS017950/NS/NINDS NIH HHS/United States
+GR  - U18DP006139/ACL/ACL HHS/United States
+GR  - UC4 DK108173/DK/NIDDK NIH HHS/United States
+GR  - P30 DK048520/DK/NIDDK NIH HHS/United States
+GR  - UL1 TR002548/TR/NCATS NIH HHS/United States
+GR  - UL1 RR024153/RR/NCRR NIH HHS/United States
+GR  - U01 DP000247/DP/NCCDPHP CDC HHS/United States
+GR  - U54 HG003067/HG/NHGRI NIH HHS/United States
+GR  - U18 DP002710/DP/NCCDPHP CDC HHS/United States
+GR  - K23 DK120932/DK/NIDDK NIH HHS/United States
+GR  - U18DP006138/ACL/ACL HHS/United States
+GR  - M01 RR000069/RR/NCRR NIH HHS/United States
+GR  - UL1 TR000154/TR/NCATS NIH HHS/United States
+GR  - M01 RR000036/RR/NCRR NIH HHS/United States
+GR  - U18 DP002714/DP/NCCDPHP CDC HHS/United States
+GR  - U01 DK061242/DK/NIDDK NIH HHS/United States
+GR  - U01 DP000248/DP/NCCDPHP CDC HHS/United States
+GR  - UL1 RR024992/RR/NCRR NIH HHS/United States
+GR  - UL1 TR000062/TR/NCATS NIH HHS/United States
+GR  - R01 AG008122/AG/NIA NIH HHS/United States
+GR  - U01 DK061212/DK/NIDDK NIH HHS/United States
+GR  - M01 RR001066/RR/NCRR NIH HHS/United States
+GR  - R01 AG033193/AG/NIA NIH HHS/United States
+GR  - P30 DK098722/DK/NIDDK NIH HHS/United States
+GR  - U18DP006134/ACL/ACL HHS/United States
+GR  - M01 RR014467/RR/NCRR NIH HHS/United States
+GR  - U01 DK061230/DK/NIDDK NIH HHS/United States
+GR  - HHSN268201500001I/HL/NHLBI NIH HHS/United States
+GR  - U01 DK105554/DK/NIDDK NIH HHS/United States
+GR  - U18DP006131/ACL/ACL HHS/United States
+GR  - M01 RR000043/RR/NCRR NIH HHS/United States
+GR  - UL1 TR001425/TR/NCATS NIH HHS/United States
+GR  - UL1 RR025758/RR/NCRR NIH HHS/United States
+GR  - UL1 TR000077/TR/NCATS NIH HHS/United States
+GR  - R01 DK127208/DK/NIDDK NIH HHS/United States
+GR  - UL1 TR000423/TR/NCATS NIH HHS/United States
+GR  - M01 RR000084/RR/NCRR NIH HHS/United States
+GR  - U18DP006136/ACL/ACL HHS/United States
+GR  - U01 DP000250/DP/NCCDPHP CDC HHS/United States
+GR  - UL1 TR002345/TR/NCATS NIH HHS/United States
+GR  - U01 DP000246/DP/NCCDPHP CDC HHS/United States
+GR  - UL1 TR001450/TR/NCATS NIH HHS/United States
+GR  - U01 DP000254/DP/NCCDPHP CDC HHS/United States
+GR  - U18DP006133/ACL/ACL HHS/United States
+GR  - U18 DP002708/DP/NCCDPHP CDC HHS/United States
+GR  - M01 RR000125/RR/NCRR NIH HHS/United States
+GR  - U01 DK061239/DK/NIDDK NIH HHS/United States
+GR  - HIR 10-001/HX/HSRD VA/United States
+GR  - UL1 RR024134/RR/NCRR NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20210121
+PL  - United States
+TA  - Diabetes
+JT  - Diabetes
+JID - 0372763
+RN  - 0 (Homeodomain Proteins)
+RN  - 0 (KCNQ1 Potassium Channel)
+RN  - 0 (KCNQ1 protein, human)
+RN  - 0 (MC4R protein, human)
+RN  - 0 (PHF2 protein, human)
+RN  - 0 (Receptor, Melanocortin, Type 4)
+SB  - IM
+EIN - Diabetes. 2021 Oct 29;:. PMID: 34716200
+MH  - Adult
+MH  - Diabetes Mellitus, Type 2/*genetics
+MH  - Genetic Predisposition to Disease/genetics
+MH  - Genome-Wide Association Study/methods
+MH  - Homeodomain Proteins/genetics
+MH  - Humans
+MH  - KCNQ1 Potassium Channel/genetics
+MH  - Middle Aged
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Receptor, Melanocortin, Type 4/genetics
+PMC - PMC7980197
+EDAT- 2021/01/23 06:00
+MHDA- 2021/08/24 06:00
+CRDT- 2021/01/22 06:15
+PHST- 2020/04/30 00:00 [received]
+PHST- 2021/01/18 00:00 [accepted]
+PHST- 2021/01/23 06:00 [pubmed]
+PHST- 2021/08/24 06:00 [medline]
+PHST- 2021/01/22 06:15 [entrez]
+AID - db20-0443 [pii]
+AID - 200443 [pii]
+AID - 10.2337/db20-0443 [doi]
+PST - ppublish
+SO  - Diabetes. 2021 Apr;70(4):996-1005. doi: 10.2337/db20-0443. Epub 2021 Jan 21.
+
+PMID- 30297969
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190423
+LR  - 20221229
+IS  - 1546-1718 (Electronic)
+IS  - 1061-4036 (Print)
+IS  - 1061-4036 (Linking)
+VI  - 50
+IP  - 11
+DP  - 2018 Nov
+TI  - Fine-mapping type 2 diabetes loci to single-variant resolution using high-density 
+      imputation and islet-specific epigenome maps.
+PG  - 1505-1513
+LID - 10.1038/s41588-018-0241-6 [doi]
+AB  - We expanded GWAS discovery for type 2 diabetes (T2D) by combining data from 
+      898,130 European-descent individuals (9% cases), after imputation to high-density 
+      reference panels. With these data, we (i) extend the inventory of T2D-risk 
+      variants (243 loci, 135 newly implicated in T2D predisposition, comprising 403 
+      distinct association signals); (ii) enrich discovery of lower-frequency risk 
+      alleles (80 index variants with minor allele frequency <5%, 14 with estimated 
+      allelic odds ratio >2); (iii) substantially improve fine-mapping of causal 
+      variants (at 51 signals, one variant accounted for >80% posterior probability of 
+      association (PPA)); (iv) extend fine-mapping through integration of 
+      tissue-specific epigenomic information (islet regulatory annotations extend the 
+      number of variants with PPA >80% to 73); (v) highlight validated therapeutic 
+      targets (18 genes with associations attributable to coding variants); and (vi) 
+      demonstrate enhanced potential for clinical translation (genome-wide chip 
+      heritability explains 18% of T2D risk; individuals in the extremes of a T2D 
+      polygenic risk score differ more than ninefold in prevalence).
+FAU - Mahajan, Anubha
+AU  - Mahajan A
+AUID- ORCID: 0000-0001-5585-3420
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK. anubha@well.ox.ac.uk.
+AD  - Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe Department of 
+      Medicine, University of Oxford, Oxford, UK. anubha@well.ox.ac.uk.
+FAU - Taliun, Daniel
+AU  - Taliun D
+AD  - Department of Biostatistics and Center for Statistical Genetics, University of 
+      Michigan, Ann Arbor, MI, USA.
+FAU - Thurner, Matthias
+AU  - Thurner M
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+AD  - Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe Department of 
+      Medicine, University of Oxford, Oxford, UK.
+FAU - Robertson, Neil R
+AU  - Robertson NR
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+AD  - Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe Department of 
+      Medicine, University of Oxford, Oxford, UK.
+FAU - Torres, Jason M
+AU  - Torres JM
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+FAU - Rayner, N William
+AU  - Rayner NW
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+AD  - Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe Department of 
+      Medicine, University of Oxford, Oxford, UK.
+AD  - Department of Human Genetics, Wellcome Trust Sanger Institute, Hinxton, UK.
+FAU - Payne, Anthony J
+AU  - Payne AJ
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+FAU - Steinthorsdottir, Valgerdur
+AU  - Steinthorsdottir V
+AD  - deCODE Genetics, Amgen Inc., Reykjavik, Iceland.
+FAU - Scott, Robert A
+AU  - Scott RA
+AD  - MRC Epidemiology Unit, Institute of Metabolic Science, University of Cambridge, 
+      Cambridge, UK.
+FAU - Grarup, Niels
+AU  - Grarup N
+AD  - Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health 
+      and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.
+FAU - Cook, James P
+AU  - Cook JP
+AD  - Department of Biostatistics, University of Liverpool, Liverpool, UK.
+FAU - Schmidt, Ellen M
+AU  - Schmidt EM
+AD  - Department of Biostatistics and Center for Statistical Genetics, University of 
+      Michigan, Ann Arbor, MI, USA.
+FAU - Wuttke, Matthias
+AU  - Wuttke M
+AD  - Institute of Genetic Epidemiology, Department of Biometry, Epidemiology, and 
+      Medical Bioinformatics, Faculty of Medicine and Medical Center, University of 
+      Freiburg, Freiburg, Germany.
+FAU - Sarnowski, Chloé
+AU  - Sarnowski C
+AD  - Department of Biostatistics, Boston University School of Public Health, Boston, 
+      MA, USA.
+FAU - Mägi, Reedik
+AU  - Mägi R
+AD  - Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, 
+      Estonia.
+FAU - Nano, Jana
+AU  - Nano J
+AD  - Department of Epidemiology, Erasmus University Medical Center, Rotterdam, the 
+      Netherlands.
+FAU - Gieger, Christian
+AU  - Gieger C
+AD  - Research Unit of Molecular Epidemiology, Institute of Epidemiology, Helmholtz 
+      Zentrum München Research Center for Environmental Health, Neuherberg, Germany.
+AD  - German Center for Diabetes Research (DZD), Neuherberg, Germany.
+FAU - Trompet, Stella
+AU  - Trompet S
+AD  - Section of Gerontology and Geriatrics, Department of Internal Medicine, Leiden 
+      University Medical Center, Leiden, the Netherlands.
+AD  - Department of Cardiology, Leiden University Medical Center, Leiden, the 
+      Netherlands.
+FAU - Lecoeur, Cécile
+AU  - Lecoeur C
+AD  - CNRS-UMR8199, Lille University, Lille Pasteur Institute, Lille, France.
+FAU - Preuss, Michael H
+AU  - Preuss MH
+AD  - Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at 
+      Mount Sinai, New York, NY, USA.
+FAU - Prins, Bram Peter
+AU  - Prins BP
+AD  - Department of Human Genetics, Wellcome Trust Sanger Institute, Hinxton, UK.
+FAU - Guo, Xiuqing
+AU  - Guo X
+AD  - Department of Pediatrics, Institute for Translational Genomics and Population 
+      Sciences, LABioMed at Harbor-UCLA Medical Center, Torrance, CA, USA.
+FAU - Bielak, Lawrence F
+AU  - Bielak LF
+AD  - Department of Epidemiology, School of Public Health, University of Michigan, Ann 
+      Arbor, MI, USA.
+FAU - Below, Jennifer E
+AU  - Below JE
+AD  - Vanderbilt Genetics Institute, Vanderbilt University Medical Center, Nashville, 
+      TN, USA.
+FAU - Bowden, Donald W
+AU  - Bowden DW
+AD  - Center for Genomics and Personalized Medicine Research, Wake Forest School of 
+      Medicine, Winston-Salem, NC, USA.
+AD  - Center for Diabetes Research, Wake Forest School of Medicine, Winston-Salem, NC, 
+      USA.
+AD  - Department of Biochemistry, Wake Forest School of Medicine, Winston-Salem, NC, 
+      USA.
+FAU - Chambers, John Campbell
+AU  - Chambers JC
+AD  - Department of Epidemiology and Biostatistics, Imperial College London, London, 
+      UK.
+AD  - Department of Cardiology, Ealing Hospital, London North West Healthcare NHS 
+      Trust, Middlesex, UK.
+AD  - Imperial College Healthcare NHS Trust, Imperial College London, London, UK.
+AD  - Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore, 
+      Singapore.
+AD  - MRC-PHE Centre for Environment and Health, Imperial College London, London, UK.
+FAU - Kim, Young Jin
+AU  - Kim YJ
+AD  - Division of Genome Research, Center for Genome Science, Korea National Institute 
+      of Health, Chungcheongbuk-do, Republic of Korea.
+FAU - Ng, Maggie C Y
+AU  - Ng MCY
+AD  - Center for Genomics and Personalized Medicine Research, Wake Forest School of 
+      Medicine, Winston-Salem, NC, USA.
+AD  - Center for Diabetes Research, Wake Forest School of Medicine, Winston-Salem, NC, 
+      USA.
+AD  - Department of Biochemistry, Wake Forest School of Medicine, Winston-Salem, NC, 
+      USA.
+FAU - Petty, Lauren E
+AU  - Petty LE
+AD  - Vanderbilt Genetics Institute, Vanderbilt University Medical Center, Nashville, 
+      TN, USA.
+FAU - Sim, Xueling
+AU  - Sim X
+AD  - Saw Swee Hock School of Public Health, National University of Singapore, 
+      Singapore, Singapore.
+FAU - Zhang, Weihua
+AU  - Zhang W
+AD  - Department of Epidemiology and Biostatistics, Imperial College London, London, 
+      UK.
+AD  - Department of Cardiology, Ealing Hospital, London North West Healthcare NHS 
+      Trust, Middlesex, UK.
+FAU - Bennett, Amanda J
+AU  - Bennett AJ
+AD  - Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe Department of 
+      Medicine, University of Oxford, Oxford, UK.
+FAU - Bork-Jensen, Jette
+AU  - Bork-Jensen J
+AD  - Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health 
+      and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.
+FAU - Brummett, Chad M
+AU  - Brummett CM
+AD  - Department of Anesthesiology, University of Michigan Medical School, Ann Arbor, 
+      MI, USA.
+FAU - Canouil, Mickaël
+AU  - Canouil M
+AD  - CNRS-UMR8199, Lille University, Lille Pasteur Institute, Lille, France.
+FAU - Ec Kardt, Kai-Uwe
+AU  - Ec Kardt KU
+AD  - Department of Nephrology and Medical Intensive Care and German Chronic Kidney 
+      Disease Study, Charité, Universitätsmedizin Berlin, Berlin, Germany.
+FAU - Fischer, Krista
+AU  - Fischer K
+AD  - Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, 
+      Estonia.
+FAU - Kardia, Sharon L R
+AU  - Kardia SLR
+AD  - Department of Epidemiology, School of Public Health, University of Michigan, Ann 
+      Arbor, MI, USA.
+FAU - Kronenberg, Florian
+AU  - Kronenberg F
+AD  - Division of Genetic Epidemiology, Department of Medical Genetics, Molecular and 
+      Clinical Pharmacology, Medical University of Innsbruck, Innsbruck, Austria.
+FAU - Läll, Kristi
+AU  - Läll K
+AD  - Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, 
+      Estonia.
+AD  - Institute of Mathematics and Statistics, University of Tartu, Tartu, Estonia.
+FAU - Liu, Ching-Ti
+AU  - Liu CT
+AD  - Department of Biostatistics, Boston University School of Public Health, Boston, 
+      MA, USA.
+FAU - Locke, Adam E
+AU  - Locke AE
+AD  - McDonnell Genome Institute, Washington University School of Medicine, St. Louis, 
+      MO, USA.
+AD  - Division of Genomics & Bioinformatics, Department of Medicine, Washington 
+      University School of Medicine, St. Louis, MO, USA.
+FAU - Luan, Jian'an
+AU  - Luan J
+AD  - MRC Epidemiology Unit, Institute of Metabolic Science, University of Cambridge, 
+      Cambridge, UK.
+FAU - Ntalla, Ioanna
+AU  - Ntalla I
+AD  - William Harvey Research Institute, Barts and The London School of Medicine and 
+      Dentistry, Queen Mary University of London, London, UK.
+FAU - Nylander, Vibe
+AU  - Nylander V
+AD  - Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe Department of 
+      Medicine, University of Oxford, Oxford, UK.
+FAU - Schönherr, Sebastian
+AU  - Schönherr S
+AD  - Division of Genetic Epidemiology, Department of Medical Genetics, Molecular and 
+      Clinical Pharmacology, Medical University of Innsbruck, Innsbruck, Austria.
+FAU - Schurmann, Claudia
+AU  - Schurmann C
+AD  - Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at 
+      Mount Sinai, New York, NY, USA.
+FAU - Yengo, Loïc
+AU  - Yengo L
+AD  - CNRS-UMR8199, Lille University, Lille Pasteur Institute, Lille, France.
+FAU - Bottinger, Erwin P
+AU  - Bottinger EP
+AD  - Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at 
+      Mount Sinai, New York, NY, USA.
+FAU - Brandslund, Ivan
+AU  - Brandslund I
+AD  - Institute of Regional Health Research, University of Southern Denmark, Odense, 
+      Denmark.
+AD  - Department of Clinical Biochemistry, Vejle Hospital, Vejle, Denmark.
+FAU - Christensen, Cramer
+AU  - Christensen C
+AD  - Medical Department, Lillebælt Hospital Vejle, Vejle, Denmark.
+FAU - Dedoussis, George
+AU  - Dedoussis G
+AD  - Department of Nutrition and Dietetics, Harokopio University of Athens, Athens, 
+      Greece.
+FAU - Florez, Jose C
+AU  - Florez JC
+AD  - Department of Medicine, Harvard Medical School, Boston, MA, USA.
+AD  - Diabetes Research Center (Diabetes Unit), Department of Medicine, Massachusetts 
+      General Hospital, Boston, MA, USA.
+AD  - Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA, USA.
+AD  - Programs in Metabolism and Medical & Population Genetics, Broad Institute, 
+      Cambridge, MA, USA.
+FAU - Ford, Ian
+AU  - Ford I
+AD  - Robertson Centre for Biostatistics, University of Glasgow, Glasgow, UK.
+FAU - Franco, Oscar H
+AU  - Franco OH
+AD  - Department of Epidemiology, Erasmus University Medical Center, Rotterdam, the 
+      Netherlands.
+FAU - Frayling, Timothy M
+AU  - Frayling TM
+AD  - Genetics of Complex Traits, University of Exeter Medical School, University of 
+      Exeter, Exeter, UK.
+FAU - Giedraitis, Vilmantas
+AU  - Giedraitis V
+AD  - Department of Public Health and Caring Sciences, Geriatrics, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Hackinger, Sophie
+AU  - Hackinger S
+AD  - Department of Human Genetics, Wellcome Trust Sanger Institute, Hinxton, UK.
+FAU - Hattersley, Andrew T
+AU  - Hattersley AT
+AD  - University of Exeter Medical School, University of Exeter, Exeter, UK.
+FAU - Herder, Christian
+AU  - Herder C
+AD  - German Center for Diabetes Research (DZD), Neuherberg, Germany.
+AD  - Institute for Clinical Diabetology, German Diabetes Center, Leibniz Center for 
+      Diabetes Research at Heinrich Heine University Düsseldorf, Düsseldorf, Germany.
+FAU - Ikram, M Arfan
+AU  - Ikram MA
+AD  - Department of Epidemiology, Erasmus University Medical Center, Rotterdam, the 
+      Netherlands.
+FAU - Ingelsson, Martin
+AU  - Ingelsson M
+AD  - Department of Public Health and Caring Sciences, Geriatrics, Uppsala University, 
+      Uppsala, Sweden.
+FAU - Jørgensen, Marit E
+AU  - Jørgensen ME
+AD  - Steno Diabetes Center Copenhagen, Gentofte, Denmark.
+AD  - National Institute of Public Health, Southern Denmark University, Copenhagen, 
+      Denmark.
+FAU - Jørgensen, Torben
+AU  - Jørgensen T
+AD  - Research Centre for Prevention and Health, Capital Region of Denmark, Glostrup, 
+      Denmark.
+AD  - Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, 
+      Denmark.
+AD  - Faculty of Medicine, Aalborg University, Aalborg, Denmark.
+FAU - Kriebel, Jennifer
+AU  - Kriebel J
+AD  - Research Unit of Molecular Epidemiology, Institute of Epidemiology, Helmholtz 
+      Zentrum München Research Center for Environmental Health, Neuherberg, Germany.
+AD  - German Center for Diabetes Research (DZD), Neuherberg, Germany.
+FAU - Kuusisto, Johanna
+AU  - Kuusisto J
+AD  - Institute of Clinical Medicine, Internal Medicine, University of Eastern Finland 
+      and Kuopio University Hospital, Kuopio, Finland.
+FAU - Ligthart, Symen
+AU  - Ligthart S
+AD  - Department of Epidemiology, Erasmus University Medical Center, Rotterdam, the 
+      Netherlands.
+FAU - Lindgren, Cecilia M
+AU  - Lindgren CM
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+AD  - Program in Medical and Population Genetics, Broad Institute, Cambridge, MA, USA.
+AD  - Big Data Institute, Li Ka Shing Centre For Health Information and Discovery, 
+      University of Oxford, Oxford, UK.
+FAU - Linneberg, Allan
+AU  - Linneberg A
+AD  - Research Centre for Prevention and Health, Capital Region of Denmark, Glostrup, 
+      Denmark.
+AD  - Center for Clinical Research and Prevention, Bispebjerg and Frederiksberg 
+      Hospital, Frederiksberg, Denmark.
+AD  - Department of Clinical Medicine, Faculty of Health and Medical Sciences, 
+      University of Copenhagen, Copenhagen, Denmark.
+FAU - Lyssenko, Valeriya
+AU  - Lyssenko V
+AD  - Department of Clinical Sciences, Diabetes and Endocrinology, Lund University 
+      Diabetes Centre, Malmö, Sweden.
+AD  - Department of Clinical Science, KG Jebsen Center for Diabetes Research, 
+      University of Bergen, Bergen, Norway.
+FAU - Mamakou, Vasiliki
+AU  - Mamakou V
+AD  - Dromokaiteio Psychiatric Hospital, National and Kapodistrian University of 
+      Athens, Athens, Greece.
+FAU - Meitinger, Thomas
+AU  - Meitinger T
+AD  - Institute of Human Genetics, Technische Universität München, Munich, Germany.
+AD  - Institute of Human Genetics, Helmholtz Zentrum München, German Research Center 
+      for Environmental Health, Neuherberg, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), Munich Heart Alliance partner 
+      site, Munich, Germany.
+FAU - Mohlke, Karen L
+AU  - Mohlke KL
+AD  - Department of Genetics, University of North Carolina, Chapel Hill, NC, USA.
+FAU - Morris, Andrew D
+AU  - Morris AD
+AD  - Clinical Research Centre, Centre for Molecular Medicine, Ninewells Hospital and 
+      Medical School, Dundee, UK.
+AD  - Usher Institute of Population Health Sciences and Informatics, University of 
+      Edinburgh, Edinburgh, UK.
+FAU - Nadkarni, Girish
+AU  - Nadkarni G
+AD  - Division of Nephrology, Department of Medicine, Icahn School of Medicine at Mount 
+      Sinai, New York, NY, USA.
+FAU - Pankow, James S
+AU  - Pankow JS
+AD  - Division of Epidemiology and Community Health, School of Public Health, 
+      University of Minnesota, Minneapolis, MN, USA.
+FAU - Peters, Annette
+AU  - Peters A
+AD  - German Center for Diabetes Research (DZD), Neuherberg, Germany.
+AD  - DZHK (German Centre for Cardiovascular Research), Munich Heart Alliance partner 
+      site, Munich, Germany.
+AD  - Institute of Epidemiology, Helmholtz Zentrum München, German Research Center for 
+      Environmental Health, Neuherberg, Germany.
+FAU - Sattar, Naveed
+AU  - Sattar N
+AD  - Institute of Cardiovascular and Medical Sciences, University of Glasgow, Glasgow, 
+      UK.
+FAU - Stančáková, Alena
+AU  - Stančáková A
+AD  - Institute of Clinical Medicine, Internal Medicine, University of Eastern Finland 
+      and Kuopio University Hospital, Kuopio, Finland.
+FAU - Strauch, Konstantin
+AU  - Strauch K
+AD  - Institute of Genetic Epidemiology, Helmholtz Zentrum München, German Research 
+      Center for Environmental Health, Neuherberg, Germany.
+AD  - Institute of Medical Informatics, Biometry, and Epidemiology, 
+      Ludwig-Maximilians-Universität, Munich, Germany.
+FAU - Taylor, Kent D
+AU  - Taylor KD
+AD  - Department of Pediatrics, Institute for Translational Genomics and Population 
+      Sciences, LABioMed at Harbor-UCLA Medical Center, Torrance, CA, USA.
+FAU - Thorand, Barbara
+AU  - Thorand B
+AD  - German Center for Diabetes Research (DZD), Neuherberg, Germany.
+AD  - Institute of Epidemiology, Helmholtz Zentrum München, German Research Center for 
+      Environmental Health, Neuherberg, Germany.
+FAU - Thorleifsson, Gudmar
+AU  - Thorleifsson G
+AD  - deCODE Genetics, Amgen Inc., Reykjavik, Iceland.
+FAU - Thorsteinsdottir, Unnur
+AU  - Thorsteinsdottir U
+AD  - deCODE Genetics, Amgen Inc., Reykjavik, Iceland.
+AD  - Faculty of Medicine, University of Iceland, Reykjavik, Iceland.
+FAU - Tuomilehto, Jaakko
+AU  - Tuomilehto J
+AD  - Department of Health, National Institute for Health and Welfare, Helsinki, 
+      Finland.
+AD  - Dasman Diabetes Institute, Dasman, Kuwait.
+AD  - Department of Neuroscience and Preventive Medicine, Danube-University Krems, 
+      Krems, Austria.
+AD  - Diabetes Research Group, King Abdulaziz University, Jeddah, Saudi Arabia.
+FAU - Witte, Daniel R
+AU  - Witte DR
+AD  - Department of Public Health, Aarhus University, Aarhus, Denmark.
+AD  - Danish Diabetes Academy, Odense, Denmark.
+FAU - Dupuis, Josée
+AU  - Dupuis J
+AD  - Department of Biostatistics, Boston University School of Public Health, Boston, 
+      MA, USA.
+AD  - National Heart, Lung, and Blood Institute Framingham Heart Study, Framingham, MA, 
+      USA.
+FAU - Peyser, Patricia A
+AU  - Peyser PA
+AD  - Department of Epidemiology, School of Public Health, University of Michigan, Ann 
+      Arbor, MI, USA.
+FAU - Zeggini, Eleftheria
+AU  - Zeggini E
+AD  - Department of Human Genetics, Wellcome Trust Sanger Institute, Hinxton, UK.
+FAU - Loos, Ruth J F
+AU  - Loos RJF
+AD  - Charles Bronfman Institute for Personalized Medicine, Icahn School of Medicine at 
+      Mount Sinai, New York, NY, USA.
+AD  - Mindich Child Health and Development Institute, Icahn School of Medicine at Mount 
+      Sinai, New York, NY, USA.
+FAU - Froguel, Philippe
+AU  - Froguel P
+AD  - CNRS-UMR8199, Lille University, Lille Pasteur Institute, Lille, France.
+AD  - Department of Genomics of Common Disease, School of Public Health, Imperial 
+      College London, London, UK.
+FAU - Ingelsson, Erik
+AU  - Ingelsson E
+AD  - Division of Cardiovascular Medicine, Department of Medicine, Stanford University 
+      School of Medicine, Stanford, CA, USA.
+AD  - Department of Medical Sciences, Molecular Epidemiology and Science for Life 
+      Laboratory, Uppsala University, Uppsala, Sweden.
+FAU - Lind, Lars
+AU  - Lind L
+AD  - Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+FAU - Groop, Leif
+AU  - Groop L
+AD  - Department of Clinical Sciences, Diabetes and Endocrinology, Lund University 
+      Diabetes Centre, Malmö, Sweden.
+AD  - Finnish Institute for Molecular Medicine (FIMM), University of Helsinki, 
+      Helsinki, Finland.
+FAU - Laakso, Markku
+AU  - Laakso M
+AD  - Institute of Clinical Medicine, Internal Medicine, University of Eastern Finland 
+      and Kuopio University Hospital, Kuopio, Finland.
+FAU - Collins, Francis S
+AU  - Collins FS
+AD  - Genome Technology Branch, National Human Genome Research Institute, National 
+      Institutes of Health, Bethesda, MD, USA.
+FAU - Jukema, J Wouter
+AU  - Jukema JW
+AD  - Department of Cardiology, Leiden University Medical Center, Leiden, the 
+      Netherlands.
+FAU - Palmer, Colin N A
+AU  - Palmer CNA
+AD  - Pat Macpherson Centre for Pharmacogenetics and Pharmacogenomics, Ninewells 
+      Hospital and Medical School, University of Dundee, Dundee, UK.
+FAU - Grallert, Harald
+AU  - Grallert H
+AD  - Research Unit of Molecular Epidemiology, Institute of Epidemiology, Helmholtz 
+      Zentrum München Research Center for Environmental Health, Neuherberg, Germany.
+AD  - German Center for Diabetes Research (DZD), Neuherberg, Germany.
+AD  - Clinical Cooparation Group Type 2 Diabetes, Helmholtz Zentrum München, 
+      Ludwig-Maximilians-Universität, Munich, Germany.
+AD  - Clinical Cooparation Group Nutrigenomics and Type 2 Diabetes, Helmholtz Zentrum 
+      München, Technical University, Munich, Germany.
+FAU - Metspalu, Andres
+AU  - Metspalu A
+AD  - Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, 
+      Estonia.
+FAU - Dehghan, Abbas
+AU  - Dehghan A
+AD  - Department of Epidemiology, Erasmus University Medical Center, Rotterdam, the 
+      Netherlands.
+AD  - Department of Epidemiology and Biostatistics, Imperial College London, London, 
+      UK.
+AD  - MRC-PHE Centre for Environment and Health, Imperial College London, London, UK.
+FAU - Köttgen, Anna
+AU  - Köttgen A
+AD  - Institute of Genetic Epidemiology, Department of Biometry, Epidemiology, and 
+      Medical Bioinformatics, Faculty of Medicine and Medical Center, University of 
+      Freiburg, Freiburg, Germany.
+FAU - Abecasis, Goncalo R
+AU  - Abecasis GR
+AD  - Department of Biostatistics and Center for Statistical Genetics, University of 
+      Michigan, Ann Arbor, MI, USA.
+FAU - Meigs, James B
+AU  - Meigs JB
+AD  - Department of Medicine, Harvard Medical School, Boston, MA, USA.
+AD  - Programs in Metabolism and Medical & Population Genetics, Broad Institute, 
+      Cambridge, MA, USA.
+AD  - Division of General Internal Medicine, Massachusetts General Hospital, Boston, 
+      MA, USA.
+FAU - Rotter, Jerome I
+AU  - Rotter JI
+AD  - Department of Pediatrics, Institute for Translational Genomics and Population 
+      Sciences, LABioMed at Harbor-UCLA Medical Center, Torrance, CA, USA.
+AD  - Departments of Medicine, Institute for Translational Genomics and Population 
+      Sciences, LABioMed at Harbor-UCLA Medical Center, Torrance, CA, USA.
+FAU - Marchini, Jonathan
+AU  - Marchini J
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+AD  - Department of Statistics, University of Oxford, Oxford, UK.
+FAU - Pedersen, Oluf
+AU  - Pedersen O
+AD  - Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health 
+      and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.
+FAU - Hansen, Torben
+AU  - Hansen T
+AD  - Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of Health 
+      and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.
+AD  - Faculty of Health Sciences, University of Southern Denmark, Odense, Denmark.
+FAU - Langenberg, Claudia
+AU  - Langenberg C
+AD  - MRC Epidemiology Unit, Institute of Metabolic Science, University of Cambridge, 
+      Cambridge, UK.
+FAU - Wareham, Nicholas J
+AU  - Wareham NJ
+AD  - MRC Epidemiology Unit, Institute of Metabolic Science, University of Cambridge, 
+      Cambridge, UK.
+FAU - Stefansson, Kari
+AU  - Stefansson K
+AD  - deCODE Genetics, Amgen Inc., Reykjavik, Iceland.
+AD  - Faculty of Medicine, University of Iceland, Reykjavik, Iceland.
+FAU - Gloyn, Anna L
+AU  - Gloyn AL
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+AD  - Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe Department of 
+      Medicine, University of Oxford, Oxford, UK.
+AD  - Oxford NIHR Biomedical Research Centre, Oxford University Hospitals Trust, 
+      Oxford, UK.
+FAU - Morris, Andrew P
+AU  - Morris AP
+AUID- ORCID: 0000-0002-6805-6014
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK.
+AD  - Department of Biostatistics, University of Liverpool, Liverpool, UK.
+AD  - Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, 
+      Estonia.
+FAU - Boehnke, Michael
+AU  - Boehnke M
+AUID- ORCID: 0000-0002-6442-7754
+AD  - Department of Biostatistics and Center for Statistical Genetics, University of 
+      Michigan, Ann Arbor, MI, USA.
+FAU - McCarthy, Mark I
+AU  - McCarthy MI
+AUID- ORCID: 0000-0002-4393-0510
+AD  - Wellcome Centre for Human Genetics, Nuffield Department of Medicine, University 
+      of Oxford, Oxford, UK. mark.mccarthy@drl.ox.ac.uk.
+AD  - Oxford Centre for Diabetes, Endocrinology and Metabolism, Radcliffe Department of 
+      Medicine, University of Oxford, Oxford, UK. mark.mccarthy@drl.ox.ac.uk.
+AD  - Oxford NIHR Biomedical Research Centre, Oxford University Hospitals Trust, 
+      Oxford, UK. mark.mccarthy@drl.ox.ac.uk.
+LA  - eng
+GR  - U01 DK105556/DK/NIDDK NIH HHS/United States
+GR  - MC_UU_12015/1/MRC_/Medical Research Council/United Kingdom
+GR  - R01 DK072193/DK/NIDDK NIH HHS/United States
+GR  - R01 DK066358/DK/NIDDK NIH HHS/United States
+GR  - K24 DK080140/DK/NIDDK NIH HHS/United States
+GR  - U01 DK078616/DK/NIDDK NIH HHS/United States
+GR  - U01 DK062370/DK/NIDDK NIH HHS/United States
+GR  - G0601261/MRC_/Medical Research Council/United Kingdom
+GR  - P30 DK020572/DK/NIDDK NIH HHS/United States
+GR  - P30 DK116074/DK/NIDDK NIH HHS/United States
+GR  - 098381/WT_/Wellcome Trust/United Kingdom
+GR  - 200837/Z/16/Z/WT_/Wellcome Trust/United Kingdom
+GR  - R01 DK093757/DK/NIDDK NIH HHS/United States
+GR  - R01 DK078616/DK/NIDDK NIH HHS/United States
+GR  - R01 HL119443/HL/NHLBI NIH HHS/United States
+GR  - R01 HL105756/HL/NHLBI NIH HHS/United States
+GR  - R01 DK087914/DK/NIDDK NIH HHS/United States
+GR  - U01 DK105535/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181008
+PL  - United States
+TA  - Nat Genet
+JT  - Nature genetics
+JID - 9216904
+SB  - IM
+CIN - Nat Genet. 2018 Nov;50(11):1499-1500. PMID: 30297970
+MH  - Body Mass Index
+MH  - Case-Control Studies
+MH  - Chromosome Mapping/*methods
+MH  - Diabetes Mellitus, Type 2/epidemiology/*genetics/pathology
+MH  - *Epigenesis, Genetic
+MH  - Female
+MH  - Gene Frequency
+MH  - Genetic Loci/genetics
+MH  - Genetic Predisposition to Disease
+MH  - Genome, Human/*genetics
+MH  - Genome-Wide Association Study
+MH  - High-Throughput Screening Assays/methods
+MH  - Humans
+MH  - Islets of Langerhans/*metabolism/pathology
+MH  - Linkage Disequilibrium
+MH  - Male
+MH  - Meta-Analysis as Topic
+MH  - *Polymorphism, Single Nucleotide
+MH  - Sex Factors
+MH  - White People/genetics
+PMC - PMC6287706
+MID - EMS80721
+EDAT- 2018/10/10 06:00
+MHDA- 2019/04/24 06:00
+CRDT- 2018/10/10 06:00
+PHST- 2017/12/26 00:00 [received]
+PHST- 2018/08/10 00:00 [accepted]
+PHST- 2018/10/10 06:00 [pubmed]
+PHST- 2019/04/24 06:00 [medline]
+PHST- 2018/10/10 06:00 [entrez]
+AID - 10.1038/s41588-018-0241-6 [pii]
+AID - 10.1038/s41588-018-0241-6 [doi]
+PST - ppublish
+SO  - Nat Genet. 2018 Nov;50(11):1505-1513. doi: 10.1038/s41588-018-0241-6. Epub 2018 
+      Oct 8.
+
+
+
+
+
