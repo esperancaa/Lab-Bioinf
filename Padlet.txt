@@ -1,0 +1,20 @@
+Aim of the project: Analyse IRS1, GLI2 and DDX18 as potencially related to diabetes II, using bioinformatic tools. 
+
+Methodoly
+
+Our group decided to completely automate the initial part of the investigation and homology analysis: 
+-Searching for literature, 
+-finding the nucleotide and proteic sequence 
+The automation of the process consists in getting all the info from Biopython scripts, instead of jumping from Web to Web browser searches. So, all 
+necessary information (filtered by algorythms) is saved in files, with the necessary format.
+
+Next, we used the filtered files directly in:
+-Motif MEME
+-FIMO
+-STRING
+-IntAct
+-NetPhos
+-TMHMM
+-Phobius 
+
+
