@@ -1,0 +1,434 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_56933</BlastOutput_query-ID>
+  <BlastOutput_query-def>ref|NC_000002.12|:226236645-226236759 Homo sapiens chromosome 2, GRCh38.p14 Primary Assembly</BlastOutput_query-def>
+  <BlastOutput_query-len>115</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_56933</Iteration_query-ID>
+  <Iteration_query-def>ref|NC_000002.12|:226236645-226236759 Homo sapiens chromosome 2, GRCh38.p14 Primary Assembly</Iteration_query-def>
+  <Iteration_query-len>115</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|13677110|gb|AC062015.7|</Hit_id>
+  <Hit_def>Homo sapiens BAC clone CTD-2031E17 from 2, complete sequence</Hit_def>
+  <Hit_accession>AC062015</Hit_accession>
+  <Hit_len>144223</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>208.674</Hsp_bit-score>
+      <Hsp_score>230</Hsp_score>
+      <Hsp_evalue>1.18427e-51</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>115</Hsp_query-to>
+      <Hsp_hit-from>60695</Hsp_hit-from>
+      <Hsp_hit-to>60809</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>115</Hsp_identity>
+      <Hsp_positive>115</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>115</Hsp_align-len>
+      <Hsp_qseq>AACAGGACAAAACTGTCAGTCCACATGAATTTATGTGACTGCCATAAACAATCAGTGCAAGCAACATAACCTTTAATATTGCTTATGGAGCTAAGTAAATAGCCTTAAGAAAGAA</Hsp_qseq>
+      <Hsp_hseq>AACAGGACAAAACTGTCAGTCCACATGAATTTATGTGACTGCCATAAACAATCAGTGCAAGCAACATAACCTTTAATATTGCTTATGGAGCTAAGTAAATAGCCTTAAGAAAGAA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1083260056|ref|NG_028216.2|</Hit_id>
+  <Hit_def>Homo sapiens anoctamin 10 (ANO10), RefSeqGene on chromosome 3</Hit_def>
+  <Hit_accession>NG_028216</Hit_accession>
+  <Hit_len>332269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>1.26781</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>59</Hsp_query-to>
+      <Hsp_hit-from>41817</Hsp_hit-from>
+      <Hsp_hit-to>41794</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>TGACTGCCATAAACAATCAGTGCA</Hsp_qseq>
+      <Hsp_hseq>TGACTGCCATAAACAACCAGTGCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|20340478|gb|AC105903.2|</Hit_id>
+  <Hit_def>Homo sapiens chromosome 3 clone RP11-606H24, complete sequence</Hit_def>
+  <Hit_accession>AC105903</Hit_accession>
+  <Hit_len>186951</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.0587</Hsp_bit-score>
+      <Hsp_score>43</Hsp_score>
+      <Hsp_evalue>1.26781</Hsp_evalue>
+      <Hsp_query-from>36</Hsp_query-from>
+      <Hsp_query-to>59</Hsp_query-to>
+      <Hsp_hit-from>113577</Hsp_hit-from>
+      <Hsp_hit-to>113600</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>TGACTGCCATAAACAATCAGTGCA</Hsp_qseq>
+      <Hsp_hseq>TGACTGCCATAAACAACCAGTGCA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|293337318|gb|AC240509.1|</Hit_id>
+  <Hit_def>Homo sapiens FOSMID clone ABC14-50083900N23 from chromosome unknown, complete sequence</Hit_def>
+  <Hit_accession>AC240509</Hit_accession>
+  <Hit_len>37784</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>1.26781</Hsp_evalue>
+      <Hsp_query-from>53</Hsp_query-from>
+      <Hsp_query-to>83</Hsp_query-to>
+      <Hsp_hit-from>34557</Hsp_hit-from>
+      <Hsp_hit-to>34527</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>CAGTGCAAGCAACATAACCTTTAATATTGCT</Hsp_qseq>
+      <Hsp_hseq>CAATGCCAGCAACATAACCTCTAATATTCCT</Hsp_hseq>
+      <Hsp_midline>|| ||| ||||||||||||| ||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|154091212|gb|AC203630.3|</Hit_id>
+  <Hit_def>Homo sapiens FOSMID clone ABC10-45505500C8 from chromosome 9, complete sequence</Hit_def>
+  <Hit_accession>AC203630</Hit_accession>
+  <Hit_len>38940</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>1.26781</Hsp_evalue>
+      <Hsp_query-from>53</Hsp_query-from>
+      <Hsp_query-to>83</Hsp_query-to>
+      <Hsp_hit-from>9580</Hsp_hit-from>
+      <Hsp_hit-to>9610</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>CAGTGCAAGCAACATAACCTTTAATATTGCT</Hsp_qseq>
+      <Hsp_hseq>CAATGCCAGCAACATAACCTCTAATATTCCT</Hsp_hseq>
+      <Hsp_midline>|| ||| ||||||||||||| ||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|14715668|emb|AL355975.10|</Hit_id>
+  <Hit_def>Human DNA sequence from clone RP11-468C2 on chromosome 9, complete sequence</Hit_def>
+  <Hit_accession>AL355975</Hit_accession>
+  <Hit_len>131705</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.157</Hsp_bit-score>
+      <Hsp_score>42</Hsp_score>
+      <Hsp_evalue>1.26781</Hsp_evalue>
+      <Hsp_query-from>53</Hsp_query-from>
+      <Hsp_query-to>83</Hsp_query-to>
+      <Hsp_hit-from>46337</Hsp_hit-from>
+      <Hsp_hit-to>46307</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>CAGTGCAAGCAACATAACCTTTAATATTGCT</Hsp_qseq>
+      <Hsp_hseq>CAATGCCAGCAACATAACCTCTAATATTCCT</Hsp_hseq>
+      <Hsp_midline>|| ||| ||||||||||||| ||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|1543379894|ref|NG_029119.2|</Hit_id>
+  <Hit_def>Homo sapiens semaphorin 6D (SEMA6D), RefSeqGene on chromosome 15</Hit_def>
+  <Hit_accession>NG_029119</Hit_accession>
+  <Hit_len>597018</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>4.42508</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>458779</Hsp_hit-from>
+      <Hsp_hit-to>458755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>AATCAGTGCAAGCAACATAACCTTT</Hsp_qseq>
+      <Hsp_hseq>AATCTGTGCCAGCAACATAACCTTT</Hsp_hseq>
+      <Hsp_midline>|||| |||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|2033711141|gb|CP068263.2|</Hit_id>
+  <Hit_def>Homo sapiens isolate CHM13 chromosome 15</Hit_def>
+  <Hit_accession>CP068263</Hit_accession>
+  <Hit_len>99753195</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>4.42508</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>45445998</Hsp_hit-from>
+      <Hsp_hit-to>45445974</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>AATCAGTGCAAGCAACATAACCTTT</Hsp_qseq>
+      <Hsp_hseq>AATCTGTGCCAGCAACATAACCTTT</Hsp_hseq>
+      <Hsp_midline>|||| |||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|1909942456|dbj|AP023475.1|</Hit_id>
+  <Hit_def>Homo sapiens DNA, chromosome 15, nearly complete genome</Hit_def>
+  <Hit_accession>AP023475</Hit_accession>
+  <Hit_len>95537968</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>4.42508</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>41355902</Hsp_hit-from>
+      <Hsp_hit-to>41355878</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>AATCAGTGCAAGCAACATAACCTTT</Hsp_qseq>
+      <Hsp_hseq>AATCTGTGCCAGCAACATAACCTTT</Hsp_hseq>
+      <Hsp_midline>|||| |||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|212549702|ref|NG_008951.1|</Hit_id>
+  <Hit_def>Homo sapiens ATR serine/threonine kinase (ATR), RefSeqGene (LRG_1403) on chromosome 3</Hit_def>
+  <Hit_accession>NG_008951</Hit_accession>
+  <Hit_len>136592</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>4.42508</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>37</Hsp_query-to>
+      <Hsp_hit-from>30290</Hsp_hit-from>
+      <Hsp_hit-to>30320</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>GACAAAACTGTCAGTCCACATGAATTTATGTG</Hsp_qseq>
+      <Hsp_hseq>GACAAAA-TGTGAGTCAACATGAATTTATTTG</Hsp_hseq>
+      <Hsp_midline>||||||| ||| |||| |||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|24371350|gb|AC134509.2|</Hit_id>
+  <Hit_def>Homo sapiens 3 BAC RP11-427D1 (Roswell Park Cancer Institute Human BAC Library) complete sequence</Hit_def>
+  <Hit_accession>AC134509</Hit_accession>
+  <Hit_len>86901</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>4.42508</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>37</Hsp_query-to>
+      <Hsp_hit-from>34017</Hsp_hit-from>
+      <Hsp_hit-to>33987</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>GACAAAACTGTCAGTCCACATGAATTTATGTG</Hsp_qseq>
+      <Hsp_hseq>GACAAAA-TGTGAGTCAACATGAATTTATTTG</Hsp_hseq>
+      <Hsp_midline>||||||| ||| |||| |||||||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|10186578|emb|AL359394.9|</Hit_id>
+  <Hit_def>Human DNA sequence from clone RP11-264M20 on chromosome 13, complete sequence</Hit_def>
+  <Hit_accession>AL359394</Hit_accession>
+  <Hit_len>137246</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>4.42508</Hsp_evalue>
+      <Hsp_query-from>63</Hsp_query-from>
+      <Hsp_query-to>87</Hsp_query-to>
+      <Hsp_hit-from>50524</Hsp_hit-from>
+      <Hsp_hit-to>50548</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>AACATAACCTTTAATATTGCTTATG</Hsp_qseq>
+      <Hsp_hseq>AACATAAACTTTAATATTGCTAATG</Hsp_hseq>
+      <Hsp_midline>||||||| ||||||||||||| |||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|11602939|gb|AC012050.7|AC012050</Hit_id>
+  <Hit_def>Homo sapiens chromosome 15 clone RP11-552E10 map 15q21.1, complete sequence</Hit_def>
+  <Hit_accession>AC012050</Hit_accession>
+  <Hit_len>191286</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>4.42508</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>162562</Hsp_hit-from>
+      <Hsp_hit-to>162538</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>AATCAGTGCAAGCAACATAACCTTT</Hsp_qseq>
+      <Hsp_hseq>AATCTGTGCCAGCAACATAACCTTT</Hsp_hseq>
+      <Hsp_midline>|||| |||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|11225364|gb|AC044787.6|AC044787</Hit_id>
+  <Hit_def>Homo sapiens chromosome 15 clone CTD-2270N23 map 15q21, complete sequence</Hit_def>
+  <Hit_accession>AC044787</Hit_accession>
+  <Hit_len>148147</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>37.3537</Hsp_bit-score>
+      <Hsp_score>40</Hsp_score>
+      <Hsp_evalue>4.42508</Hsp_evalue>
+      <Hsp_query-from>50</Hsp_query-from>
+      <Hsp_query-to>74</Hsp_query-to>
+      <Hsp_hit-from>35005</Hsp_hit-from>
+      <Hsp_hit-to>34981</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>25</Hsp_align-len>
+      <Hsp_qseq>AATCAGTGCAAGCAACATAACCTTT</Hsp_qseq>
+      <Hsp_hseq>AATCTGTGCCAGCAACATAACCTTT</Hsp_hseq>
+      <Hsp_midline>|||| |||| |||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1104147</Statistics_db-num>
+      <Statistics_db-len>661737399</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
