@@ -1,0 +1,240 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+P10070//Homo_sapiens__Human_.       -METSASATASEKQEAKSGILEAAGFPDPGKKASP---------------
+Q0VGT2//Mus_musculus__Mouse_.       -METSAPAPALEKKEAKSGLLEDSSFPDPGKKACP---------------
+Q91661//Xenopus_laevis__Africa      --------------------------------------------------
+Q9IA31//Gallus_gallus__Chicken      MEAQSHSSTTTEKKKVENSIVKCSNRTDVSEKAVASSTTSNEDESPGQTY
+P08151//Homo_sapiens__Human_.       --------------------------------------------------
+                                                                                      
+
+P10070//Homo_sapiens__Human_.       --------------------------------------------------
+Q0VGT2//Mus_musculus__Mouse_.       --------------------------------------------------
+Q91661//Xenopus_laevis__Africa      --------------------------------------------------
+Q9IA31//Gallus_gallus__Chicken      HRERRNAITMQPQGGQGLSKISEEPSTSSEERASLIKKEIHGSISHLPEP
+P08151//Homo_sapiens__Human_.       --------------------------------------------------
+                                                                                      
+
+P10070//Homo_sapiens__Human_.       -------LVVAAAAAAAVAAQGVPQHLLPPFHAPLPIDMRHQEGRYHYEP
+Q0VGT2//Mus_musculus__Mouse_.       -------LAVA----AAVAAHGVPQQLLPAFHAPLPIDMRHQEGRYHYDP
+Q91661//Xenopus_laevis__Africa      --------------------------------------------------
+Q9IA31//Gallus_gallus__Chicken      SVPYRGTLVTMDPRNGYMDPHYHPPHLFQAFHPPVPIDARHHEGRYHYEP
+P08151//Homo_sapiens__Human_.       --------------------------------------------------
+                                                                                      
+
+P10070//Homo_sapiens__Human_.       HSVHGVHGPPALSGSPVISDISLIRLSPH--PAGPGESPFNAPHPYVNPH
+Q0VGT2//Mus_musculus__Mouse_.       HSVHSVHGPPTLSGSPVISDISLIRLSPH--PAGPGESPFSAHHPYVNPH
+Q91661//Xenopus_laevis__Africa      --------------------------------------------------
+Q9IA31//Gallus_gallus__Chicken      SPIPPLHVPSALSSSPTYSDLPFIRISPHRNPAAASESPFSTPHPYINPY
+P08151//Homo_sapiens__Human_.       --------------------------------------------------
+                                                                                      
+
+P10070//Homo_sapiens__Human_.       MEHYLRSVHSSPTLSMISAARGLSPADVAQEHLKERGLFGLPAP---GTT
+Q0VGT2//Mus_musculus__Mouse_.       MEHYLRSVHSSPTLSMISAARGLSPADVAHEHLKERGLFSLAAP---GTN
+Q91661//Xenopus_laevis__Africa      MEHYLRSVHNSPTLSMISAARGLSPAEVAHEHLKERGIYGLAPPPPPGTT
+Q9IA31//Gallus_gallus__Chicken      MD-YIRSLHSSPSLSMISAARGLSPTDAPHA----------------GVS
+P08151//Homo_sapiens__Human_.       ----MFNSMTPPPISSYGEPCCLRP------------------------L
+                                        : .  ..*.:*  . .  * *                         
+
+P10070//Homo_sapiens__Human_.       PSDYYHQMTLVAGHPAPYGDLLMQSGGAASAPHLHDYLNPVDVSRFSSPR
+Q0VGT2//Mus_musculus__Mouse_.       PSDYYHQMTLMASHPTPYGDLLMQSGGAASAPHLHDYLNPVDASRFSSPR
+Q91661//Xenopus_laevis__Africa      PTEYCHQMAFLASHASPYGELLVQSAAAGNTSHLHDYLTPMDVSRFSSPR
+Q9IA31//Gallus_gallus__Chicken      PAEYYHQMALLAGQRSPYADIIPSAATAGAGALHMEYLHAMDSTRFPSPR
+P08151//Homo_sapiens__Human_.       PSQGAPSVGTEGLSGPPFCHQANLMSGPHSYGPARETNSCTEGPLFSSPR
+                                    *::   .:   .   .*: .     . .       :     : . *.***
+
+P10070//Homo_sapiens__Human_.       VTPRLSRKRALSISPLSDASLDLQRMIRTSPNSLVAYINNSRSSSAASGS
+Q0VGT2//Mus_musculus__Mouse_.       VTPRLSRKRALSISPLSDASLDLQRMIRTSPNSLVAYINNSRSSSAASGS
+Q91661//Xenopus_laevis__Africa      VTPRLSRKRALSISPLSDASIDLQTMIRTSPNSLVAYINNSRSSSAASGS
+Q9IA31//Gallus_gallus__Chicken      LSARPSRKRTLSISPLSDHSFDLQTMIRTSPNSLVTILNNSCSSWSASGS
+P08151//Homo_sapiens__Human_.       SAVKLTKKRALSISPLSDASLDLQTVIRTSPSSLVAFINSRCTS--PGGS
+                                     : : ::**:******** *:*** :*****.***: :*.  :*  ..**
+
+P10070//Homo_sapiens__Human_.       YGHLSAGALSPAFTFPHPINPVAYQ----QILSQQRGLGSAFGHTPPLIQ
+Q0VGT2//Mus_musculus__Mouse_.       YGHLSAGALSPAFTFPHPINPVAYQ----QILSQQRGLGSAFGHTPPLIQ
+Q91661//Xenopus_laevis__Africa      YGHLSAGAISPAFSFPIHK-PCSLS----AALSQQRSLSSSFGHTP-LLH
+Q9IA31//Gallus_gallus__Chicken      YGHLSASAISPALSFTYPPTPVSLQQMHQQIISRQQTLGSAFGHSPPLIH
+P08151//Homo_sapiens__Human_.       YGHLSIGTMSPSLGFPAQMNHQKGP-------------------------
+                                    ***** .::**:: *.                                  
+
+P10070//Homo_sapiens__Human_.       PSPTFLAQQPMALTSINATPTQLSSSS-NCLSDTNQNKQSSESAVSSTVN
+Q0VGT2//Mus_musculus__Mouse_.       PSPTFLAQQPMTLTSISTMPTQLSSSSSNCLNDANQNKQNSESAVSSTVN
+Q91661//Xenopus_laevis__Africa      PSPTFASRQQGALTSANPAPPSNNSSA----PDSVLNKVSSESAVSSTVN
+Q9IA31//Gallus_gallus__Chicken      PAPTFPTQRPIPGIPSVLNPVQVSSGP---SESTQHNKPTSESAVSSTGD
+P08151//Homo_sapiens__Human_.       -SPSFGVQPCGPHDSARGGMIPHPQSR-----------GPFPTCQLKSEL
+                                     :*:*  :   .  .         ..                :.  .:  
+
+P10070//Homo_sapiens__Human_.       PVAIHKRSKVKTEPEGLRPASPLALTQGQVSGHGSCGCALPLSQEQLADL
+Q0VGT2//Mus_musculus__Mouse_.       PITIHKRSKVKTEAEGLRPASPLGLTQ-----------------EQLADL
+Q91661//Xenopus_laevis__Africa      -QVIHKRSKVKTEEE----ADSVRFPQ---------------PPDHLTDL
+Q9IA31//Gallus_gallus__Chicken      -PMHNKRSKIKPDEDLPSPGAGSVQEQ----------------PEGMTPV
+P08151//Homo_sapiens__Human_.       DMLVGKCREEPLEGDMSSPNSTGIQDP----------------LLGMLDG
+                                         *  :   : :                               :   
+
+P10070//Homo_sapiens__Human_.       KEDLDRDDCKQEAEVVIYETNCHWEDCTKEYDTQEQLVHHINNEHIHGEK
+Q0VGT2//Mus_musculus__Mouse_.       KEDLDRDDCKQEAEVVIYETNCHWADCTKEYDTQEQLVHHINNEHIHGEK
+Q91661//Xenopus_laevis__Africa      KEDLDKDECKQEPE-HIYETNCHWDGCSKEFDTQDQLVHHINNDHIHGEK
+Q9IA31//Gallus_gallus__Chicken      KEEGDKDESKQEPE-VVYETNCHWEGCSREFDTQEQLVHHINNDHIHGEK
+P08151//Homo_sapiens__Human_.       REDLEREE-KREPE-SVYETDCRWDGCSQEFDSQEQLVHHINSEHIHGER
+                                    :*: :::: *:*.*  :***:*:* .*::*:*:*:*******.:*****:
+
+P10070//Homo_sapiens__Human_.       KEFVCRWQACTREQKPFKAQYMLVVHMRRHTGEKPHKCTFEGCSKAYSRL
+Q0VGT2//Mus_musculus__Mouse_.       KEFVCRWQACTREQKPFKAQYMLVVHMRRHTGEKPHKCTFEGCSKAYSRL
+Q91661//Xenopus_laevis__Africa      KEFVCRWQDCSREQKPFKAQYMLVVHMRRHTGEKPHKCTFEGCFKAYSRL
+Q9IA31//Gallus_gallus__Chicken      KEFVCRWLDCSREQKPFKAQYMLVVHMRRHTGEKPHKCTFEGCTKAYSRL
+P08151//Homo_sapiens__Human_.       KEFVCHWGGCSRELRPFKAQYMLVVHMRRHTGEKPHKCTFEGCRKSYSRL
+                                    *****:*  *:** :**************************** *:****
+
+P10070//Homo_sapiens__Human_.       ENLKTHLRSHTGEKPYVCEHEGCNKAFSNASDRAKHQNRTHSNEKPYICK
+Q0VGT2//Mus_musculus__Mouse_.       ENLKTHLRSHTGEKPYVCEHEGCNKAFSNASDRAKHQNRTHSNEKPYICK
+Q91661//Xenopus_laevis__Africa      ENLKTHLRSHTGEKPYVCDHEGCNKAFSNASDRAKHQNRTHSNEKPYICK
+Q9IA31//Gallus_gallus__Chicken      ENLKTHLRSHTGEKPYVCEHEGCNKAFSNASDRAKHQNRTHSNEKPYVCK
+P08151//Homo_sapiens__Human_.       ENLKTHLRSHTGEKPYMCEHEGCSKAFSNASDRAKHQNRTHSNEKPYVCK
+                                    ****************:*:****.***********************:**
+
+P10070//Homo_sapiens__Human_.       IPGCTKRYTDPSSLRKHVKTVHGPDAHVTKKQRNDVHLRTPLLKENGDSE
+Q0VGT2//Mus_musculus__Mouse_.       IPGCTKRYTDPSSLRKHVKTVHGPDAHVTKKQRNDVHVRAPLLKENGDNE
+Q91661//Xenopus_laevis__Africa      VPGCTKRYTDPSSLRKHVKTVHGPEAHVTKKHRNDIIQKPSLPKENGDNE
+Q9IA31//Gallus_gallus__Chicken      IPGCTKRYTDPSSLRKHVKTVHGPEAHVTKKQRGDIHPRPPPPRDPGSHS
+P08151//Homo_sapiens__Human_.       LPGCTKRYTDPSSLRKHVKTVHGPDAHVTKRHRGDGPLPRAPSISTVEPK
+                                    :***********************:*****::*.*     .   .  . .
+
+P10070//Homo_sapiens__Human_.       AGTEPGG------PESTEASSTSQAVEDCLHVRAIKTESSGLCQSSPGAQ
+Q0VGT2//Mus_musculus__Mouse_.       ASAEPGGRGP---EESVEASSTSHTVEDCLHIKAIKTESSGLCQSSPGAQ
+Q91661//Xenopus_laevis__Africa      ASAKLSG--------REHSDSVSRDQEHCLQTRTIKTEDNMMHQSSPGGQ
+Q9IA31//Gallus_gallus__Chicken      QTRSPGQQTQGATGEQKDLNSTTSRREECLQVKAVKSEKPMTSQPSPGGQ
+P08151//Homo_sapiens__Human_.       REREGGPIRE--------------------ESRLTVPEGAMKPQPSPGAQ
+                                       . .                        . :   .*     *.***.*
+
+P10070//Homo_sapiens__Human_.       SSCSSEPSPLGSAPNNDSGVEMPGTGPGSLGDLTALDDTPPGADTSALAA
+Q0VGT2//Mus_musculus__Mouse_.       SSCSSEPSPLGSAPNNDSGMEMPGTGPGSLGDLTALADTCPGADTSALAA
+Q91661//Xenopus_laevis__Africa      SSCSSEPSPYGNTNNIDSGVDVSLAWQGSLGDLFGLEETSPVVDSTVSSW
+Q9IA31//Gallus_gallus__Chicken      STCSSEQSPISNYSNN--GIELTLTGGGSVGDLSVIDET-PIMDSTISTA
+P08151//Homo_sapiens__Human_.       SSCSSDHSPAGSAANTDSGVEMTGNAGGSTEDLSSLDEGPCIAG------
+                                    *:***: ** ..  *   *:::.    **  **  : :     .      
+
+P10070//Homo_sapiens__Human_.       PSAGGLQLRKHMTTMHRFEQLKKEK--LKSLKDSCSWAGPTPHTRNTKLP
+Q0VGT2//Mus_musculus__Mouse_.       PSTGGLQLRKHMSTVHRFEQLKREK--LKSLKDSCSWAGPAPHTRNTKLP
+Q91661//Xenopus_laevis__Africa      QRSG-RPATPETQRIHSAETGTAEEREIKDNERFLLIYEPNATCQNTRLP
+Q9IA31//Gallus_gallus__Chicken      TTALGLQARRNMTGTKWMEQVKLER--LKQVNGMLPRLNPVPPSKAPTLP
+P08151//Homo_sapiens__Human_.       ---------TGLSTLRRLENLRLDQ---------LHQLRPIG-TRGLKLP
+                                                   :  *    :.              *    :   **
+
+P10070//Homo_sapiens__Human_.       PLPGSGSILENFSGSGGGGPAGLLPNPRLSELSASEVTMLSQLQERRDSS
+Q0VGT2//Mus_musculus__Mouse_.       PLPVNGSVLENFNNTGGGGPAGLLPSQRLPEL--TEVTMLSQLQERRDSS
+Q91661//Xenopus_laevis__Africa      TISANG-----FDVIG--VPSSVLINPRAIELSMNDVTMMNQLNERRDST
+Q9IA31//Gallus_gallus__Chicken      PLIGNG----TQSNSSCSVGGSMTILPNRNELSSTDITVLNMLN-RRDSN
+P08151//Homo_sapiens__Human_.       SLSHTG-------------------------TTVSRRVGPPVSLERRSSS
+                                    .:  .*                            .  .       **.*.
+
+P10070//Homo_sapiens__Human_.       TSTVSSAYTVSRRSSGISPYFSSRRSSEASPLGAGRPHNASSADSYDPIS
+Q0VGT2//Mus_musculus__Mouse_.       TSTMSSAYTVSRRSSGISPYFSSRRSSEASPLGGLRPHNASSADSYDPIS
+Q91661//Xenopus_laevis__Africa      SSTLSSAYTS-RRSSGISPYFSSRRSSETSQFGG-RLNNSSSADSYDPIS
+Q9IA31//Gallus_gallus__Chicken      TSTISSAYLSSRRSSGISPCFSSRRSSDASQAEG-RPQNVSVADSYDPIS
+P08151//Homo_sapiens__Human_.       SSSISSAYTVSRRSSLASPFPP----------------------------
+                                    :*::****   ****  **  .                            
+
+P10070//Homo_sapiens__Human_.       TDASRRSSEASQCSGG-SGLLNLTPAQQYSLRAKYAAATGG-PPPTPLPG
+Q0VGT2//Mus_musculus__Mouse_.       TDASRRSSEASQCSGGGPGLLNLTPAQQYNLRAKYAAATGG-PPPTPLPG
+Q91661//Xenopus_laevis__Africa      TDASRRSSEASQHSGL-PNLLNLTPAQHYRLKAKYAAATGG-PPPTPLPN
+Q9IA31//Gallus_gallus__Chicken      TDASRRSSEASQCDDL-PSLLSLTPAQQYRLKAKYAAATGG-PPPTPLPN
+P08151//Homo_sapiens__Human_.       ---------GSPPENGASSLPGLMPAQHYLLRARYASARGGGTSPTAASS
+                                             .*  ..  ..* .* ***:* *:*:**:* ** ..**. ..
+
+P10070//Homo_sapiens__Human_.       LERMSLRTRLALLDAPERTLPAGCPRPLGPRRGSDGPTYGHGH----AGA
+Q0VGT2//Mus_musculus__Mouse_.       LDRVSLRTRLALLDAPERALPGACPHPLGPRRGSDGPTYSHGHGHGYAGA
+Q91661//Xenopus_laevis__Africa      MDRIGLRNKLSLMDGADFPLPPFRQLPV-PRRCSDGGGN--------AGL
+Q9IA31//Gallus_gallus__Chicken      MERMSLKTRMALLGDCRESGISPLPPVNAPRRCSDGGANG-------YSR
+P08151//Homo_sapiens__Human_.       LDRIGGLPMPPWRSRAEYP-------------------------------
+                                    ::*:.     .  .    .                               
+
+P10070//Homo_sapiens__Human_.       APAFPHEAPGGGARRASDPVRRP---DALSLPRVQRFHSTHNVNPGPLPP
+Q0VGT2//Mus_musculus__Mouse_.       APAFPHEGPNSSTRRASDPVRRP---DPLILPRVQRFHSTHNMNPGSLPP
+Q91661//Xenopus_laevis__Africa      TPMYPHEIPGNNSRRASDPVRRTAGIDDKPLPRFSRFHSMNSMNTLHPPS
+Q9IA31//Gallus_gallus__Chicken      RHLLSHDALGNGTRRASDPVRMVS--NNLSVPRVQHFNSLNSFNSPALPP
+P08151//Homo_sapiens__Human_.       ----GYNPNAGVTRRASDPAQAA---DRPAPARVQRFKSLGCVHTPPTVA
+                                         ::   . :******.:     :    .*..:*:*   .:.    .
+
+P10070//Homo_sapiens__Human_.       CADRRGLRLQSHPSTDGGLARGAYSPRPPSISENVAMEAVAAGVDGAGPE
+Q0VGT2//Mus_musculus__Mouse_.       CADRRGLHVQSHPSVDSNLTRNAYSPRPPSINENVVMEAVAAGVDGPGLE
+Q91661//Xenopus_laevis__Africa      LSERRNGGLQHYTCSDGGLHRHVYSPRPPSISENVAMEAISCDADVPG--
+Q9IA31//Gallus_gallus__Chicken      SMEKRNLVLQNCTHSEGGVFRGFSSPCPPSISENVTLEAVTMEAGGSLN-
+P08151//Homo_sapiens__Human_.       GGGQ---------NFDPYLPTSVYSPQPPSITENAAMDARGLQE------
+                                       :           :  :     ** ****.**..::*           
+
+P10070//Homo_sapiens__Human_.       ADLGLPEDDLVLPDDVVQYIKAHASGALDEGTGQVYPTESTGFSDNPRLP
+Q0VGT2//Mus_musculus__Mouse_.       CDLGLVEDELVLPDDVVQYIKAHTGGTLDDGIRQGYPTEGTGFPENSKLP
+Q91661//Xenopus_laevis__Africa      -----GDDDLMLPDDVVQYIRSQNREAPEQNLQTEYSSPARNLQSNTKSF
+Q9IA31//Gallus_gallus__Chicken      -------DEDLLPDDVVQYLNSQNQGTCDHLLNNVLDSN--KMHHSVVLG
+P08151//Homo_sapiens__Human_.       -----------EPEVGTSMVGSGLNPYMDFPPTDTLGYGGPEGAAAEPYG
+                                                *:  .. : :      :                     
+
+P10070//Homo_sapiens__Human_.       SPGLHGQRRMVAADSNVGPSAPMLGGCQLGFGAPSSLNKNNMPVQWNEVS
+Q0VGT2//Mus_musculus__Mouse_.       SPGLQGHRRLAAADSNMGPSAPGLGGCQLSYSPSSNLNKSNMPVQWNEVS
+Q91661//Xenopus_laevis__Africa      HNNTPEQPR--APGAYLSRNFPALAECLG---QTANMQDNNMPVQWNEVS
+Q9IA31//Gallus_gallus__Chicken      NNNPSSFDR--APPASSQP-------------AGSEVSKSDLPIQWNEVS
+P08151//Homo_sapiens__Human_.       ARGPGSLPLGPGPPTNYGP------------------NPCPQQASYPDPT
+                                      .        .. :                      .      .: : :
+
+P10070//Homo_sapiens__Human_.       SGTVDALASQVKPPPFPQGNLAVVQQKPAFGQYPGYSPQGLQASPGGLDS
+Q0VGT2//Mus_musculus__Mouse_.       SGTVDALPTQVKPPPFPHSNLAVVQQKPAFGQYPGYNPQSVQSSSGGLDS
+Q91661//Xenopus_laevis__Africa      SGTVDVSDLPKQQ--FAAGNLAVVQQKQNFAQYQSFNQAPMQRAHNIMGQ
+Q9IA31//Gallus_gallus__Chicken      SGSSDLSPTKLKC-----SQRSAVQQARAFGLYNNMMVQQQNLQRGNVYQ
+P08151//Homo_sapiens__Human_.       QETWGEFPSHSGLYPGPKALGGTYSQCPRLEHYGQVQVKPEQGCP--VGS
+                                    . : .             .  .. .*   :  *        :     : .
+
+P10070//Homo_sapiens__Human_.       TQPHLQPRSGAPSQGIPRVNYMQQLRQPVAGSQCPGMTTTMSPHACYGQV
+Q0VGT2//Mus_musculus__Mouse_.       TQPHLQLR-GAPS--ASRGSYTQQPRQPAAGSQCLGMSAAMSPQASYSQA
+Q91661//Xenopus_laevis__Africa      GQESVQRNISVNG---QRFNYLQQRQQQMS--QCQIVSSDFIPQQRYSQS
+Q9IA31//Gallus_gallus__Chicken      -QNGYQNLMENNG----SYSLQQNTVLGSGASSSFGMQPNKPYGESVSRQ
+P08151//Homo_sapiens__Human_.       DSTGLAPCLNAHP-----------------------SEGPPHPQPLFSHY
+                                     .                                             .: 
+
+P10070//Homo_sapiens__Human_.       HPQLSPSTISGALNQFPQ--SCSNMPAKPGHLGHPQQTEVAPDPTTMGNR
+Q0VGT2//Mus_musculus__Mouse_.       HPQLSPNIVSGSLNQFSP--SCSNMAAKPSHLGLPQQMEVVPNATIMNGH
+Q91661//Xenopus_laevis__Africa      QSMLSSRAMQEGQSQISP--SCNNMVERPGVHTHAAPSNTLNHQRLAVHG
+Q9IA31//Gallus_gallus__Chicken      PMIFGAMDSSCGITVQGQKLRSSNMPVSGNQQNFGHPIASSDQATSMANG
+P08151//Homo_sapiens__Human_.       PQPSPPQYLQSGPYTQPP---------PDYLPSEPRPCLDFDSPTHSTGQ
+                                         .   . .                                      
+
+P10070//Homo_sapiens__Human_.       HRELGVPDSALAGVPPPHPVQSYPQQSHHLAASMSQEGYHQVPSLLPARQ
+Q0VGT2//Mus_musculus__Mouse_.       QREHGVPNSSLAAVSQPHPVLSYPQQ----------DSYQQGSNLLSSHQ
+Q91661//Xenopus_laevis__Africa      APTQGFANNFSVNQDGLHPPNAYTVQ-------------PQKNGLEPQQN
+Q9IA31//Gallus_gallus__Chicken      MQNRNVMEQEYLQNELVGDGIHYQGVN------------QSSPMTLGQVS
+P08151//Homo_sapiens__Human_.       LKAQLVCNYVQSQQELLWEGGGREDAP---------------AQEPSYQS
+                                         . :                                         .
+
+P10070//Homo_sapiens__Human_.       PGFMEPQTGPMGVATAGFGLVQPRPPLEPSPTGRHRGVRAVQQQLAYARA
+Q0VGT2//Mus_musculus__Mouse_.       PGFMESQQ------NAGFGLMQPRPPLEPNTASRHRGVRSGQQQL-YART
+Q91661//Xenopus_laevis__Africa      TLGMSGQA-------FNHGMIQPRPPAAPHPPNRPRNIHPVHHPP-YMRS
+Q9IA31//Gallus_gallus__Chicken      PTSQSSLH-------QGPQSCPPVSHTIGNQSSGLSVAKSYQPCANYSGN
+P08151//Homo_sapiens__Human_.       PKFLGGSQ------------------VSPSRAKAPVNTYGPGFGPNLPNH
+                                    .                              .                  
+
+P10070//Homo_sapiens__Human_.       TGHAMAAMPSSQETAEAVPKGAMGNMGSVPPQPPPQDAGGAPDHSMLYYY
+Q0VGT2//Mus_musculus__Mouse_.       TGQAMVTS-ANQETAEAMPKGPAGTMVSLAPQPS-QDTGRAQDQNTLYYY
+Q91661//Xenopus_laevis__Africa      P-HPVSELSPGQQTAEATPKRTSENTDPTP-----------KDNNLLYYS
+Q9IA31//Gallus_gallus__Chicken      RRQNVLRNNLAQQQGHVSDGNQTYRVNTIKLEMQ--GQSQQFCSNMQNYS
+P08151//Homo_sapiens__Human_.       KSGSYPTPSPCHENFVVGANRASHRAAAPPRLLP----------PLPTCY
+                                               ::   .          .                      
+
+P10070//Homo_sapiens__Human_.       GQIHMYEQDGGLENLGS-CQVMRSQPPQPQACQDSIQPQPLPSPGVNQVS
+Q0VGT2//Mus_musculus__Mouse_.       GQIHMYEQNGG-------CPAVQPQPPQPQACSDSIQPEPLPSPGVNQVS
+Q91661//Xenopus_laevis__Africa      GQIHMYEPNGN--------------FGSGIDCTVRQLP-TMPSPGANQVT
+Q9IA31//Gallus_gallus__Chicken      GQLYDQTTGFSHQAMKIGSSFFVSEANCLLQETATANSSELLSPGANQVS
+P08151//Homo_sapiens__Human_.       GPLKVGGTNPS---------------CGHPEVGRLGGGPALYPPPEGQVC
+                                    * :     . .                             : .*  .** 
+
+P10070//Homo_sapiens__Human_.       STVD---SQLLE-APQIDFDAIMDDGDHSSLFSGALSPSLLHSLSQNSSR
+Q0VGT2//Mus_musculus__Mouse_.       STVD---SQLLE-PPQIDFDAIMDDGDHSSLFSGALSPTLLHNLSQNSSR
+Q91661//Xenopus_laevis__Africa      STVD---SQGLEHPPVIDFDAMMDDGDHSSLMSGTLSPGLLQSFSQTSSR
+Q9IA31//Gallus_gallus__Chicken      STVDSLDSNSLE-GVQIDFDAIIDDGDHVSLISGALSPSIIQNLSRNSSR
+P08151//Homo_sapiens__Human_.       NPLD---SLDLD-NTQLDFVAILDE-------PQGLSPPPSHDQRGSSGH
+                                    ..:*   *  *:    :** *::*:       .  ***   :.   .*.:
+
+P10070//Homo_sapiens__Human_.       LTTPRNSLTLPSIPAGISNMAVGDMSSMLTSLAEESKFLNMMT
+Q0VGT2//Mus_musculus__Mouse_.       LTTPRNSLTLPSIPAGISNMAVGDMSSMLTSLAEESKFLNMMT
+Q91661//Xenopus_laevis__Africa      LTTPRNSLTLPSIPAGINNMAIGDMSSMLTTLAEESKFLNLMS
+Q9IA31//Gallus_gallus__Chicken      LTTPRASLTFP--------------------------------
+P08151//Homo_sapiens__Human_.       TPPPS----------GPPNMAVGNMSVLLRSLPGETEFLNSSA
+                                     ..*                                       
