@@ -1,2 +1,2 @@
-(sp|P84770.1|:0.18808,((sp|P35569.1|:0.01071,sp|P35570.1|:0.01071)Inner1:0.03880,(sp|Q28224.1|:0.01192,sp|P35568.1|:0.01192)Inner2:0.03758)Inner3:0.17615)Inner4:0.00000;
-((sp|P35568.1|:0.01141,sp|Q28224.1|:0.01244)Inner2:0.03766,(sp|P35569.1|:0.01118,sp|P35570.1|:0.01024)Inner1:0.03872,sp|P84770.1|:0.32665)Inner3:0.00000;
+(_P84770_Xenopus_laevis:0.18808,((_P35569_Mus_musculus:0.01071,_P35570_Rattus_norvegicus:0.01071)Inner1:0.03880,(_Q28224_Chlorocebus_aethiops:0.01192,P35568_Homo_sapiens:0.01192)Inner2:0.03758)Inner3:0.17615)Inner4:0.00000;
+((P35568_Homo_sapiens:0.01141,_Q28224_Chlorocebus_aethiops:0.01244)Inner2:0.03766,(_P35569_Mus_musculus:0.01118,_P35570_Rattus_norvegicus:0.01024)Inner1:0.03872,_P84770_Xenopus_laevis:0.32665)Inner3:0.00000;

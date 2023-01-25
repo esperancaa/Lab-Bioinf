@@ -1,7 +1,10 @@
 (
-P35568_Homo_sapiens:0.00887,
-Q28224_Chlorocebus_aethiops:0.01367,
 (
-P35570_Rattus_norvegicus:0.00722,
-P35569_Mus_musculus:0.02274)
-:0.07989);
+P35568_Homo_sapiens:0.00972,
+_Q28224_Chlorocebus_aethiops:0.01283)
+:0.02605,
+(
+_P35570_Rattus_norvegicus:0.01179,
+_P35569_Mus_musculus:0.01660)
+:0.04978,
+_P84770_Xenopus_laevis:0.32159);

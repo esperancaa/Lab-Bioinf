@@ -1,0 +1,165 @@
+
+PMC - PMC8551477
+PMID- 34274528
+IS  - 2212-8778 (Electronic)
+VI  - 52
+DP  - 2021 Oct
+TI  - Insulin action at a molecular level – 100 years of progress.
+LID - 101304
+AB  - The discovery of insulin 100 years ago and its application to the treatment of
+      human disease in the years since have marked a major turning point in the history
+      of medicine. The availability of purified insulin allowed for the establishment
+      of its physiological role in the regulation of blood glucose and ketones, the
+      determination of its amino acid sequence, and the solving of its structure. Over 
+      the last 50 years, the function of insulin has been applied into the discovery of
+      the insulin receptor and its signaling cascade to reveal the role of impaired
+      insulin signaling—or resistance—in the progression of type 2 diabetes. It has
+      also become clear that insulin signaling can impact not only classical
+      insulin-sensitive tissues, but all tissues of the body, and that in many of these
+      tissues the insulin signaling cascade regulates unexpected physiological
+      functions. Despite these remarkable advances, much remains to be learned about
+      both insulin signaling and how to use this molecular knowledge to advance the
+      treatment of type 2 diabetes and other insulin-resistant states.
+OAB - Publisher: Abstract available from the publisher.
+FAU - White, Morris F.
+AU  - White MF
+AD  - Boston Children's Hospital and Harvard Medical School, Boston, MA, 02215, USA
+FAU - Kahn, C. Ronald
+AU  - Kahn CR
+AD  - Joslin Diabetes Center, Harvard Medical School, Boston, MA, 02215, USA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210715
+PHST- 2021/03/31 [received]
+PHST- 2021/07/07 [revised]
+PHST- 2021/07/13 [accepted]
+TA  - Mol Metab
+JT  - Molecular Metabolism
+AID - S2212-8778(21)00151-4 [pii]
+AID - 10.1016/j.molmet.2021.101304 [doi]
+SO  - Mol Metab. 2021 Jul 15;52:. doi:10.1016/j.molmet.2021.101304.
+
+PMC - PMC9727033
+PMID- 36473871
+IS  - 2041-1723 (Electronic)
+VI  - 13
+DP  - 2022
+TI  - The dynamic clustering of insulin receptor underlies its signaling and is
+      disrupted in insulin resistance.
+LID - 7522
+AB  - Insulin receptor (IR) signaling is central to normal metabolic control and is
+      dysregulated in metabolic diseases such as type 2 diabetes. We report here that
+      IR is incorporated into dynamic clusters at the plasma membrane, in the cytoplasm
+      and in the nucleus of human hepatocytes and adipocytes. Insulin stimulation
+      promotes further incorporation of IR into these dynamic clusters in
+      insulin-sensitive cells but not in insulin-resistant cells, where both IR
+      accumulation and dynamic behavior are reduced. Treatment of insulin-resistant
+      cells with metformin, a first-line drug used to treat type 2 diabetes, can rescue
+      IR accumulation and the dynamic behavior of these clusters. This rescue is
+      associated with metformin’s role in reducing reactive oxygen species that
+      interfere with normal dynamics. These results indicate that changes in the
+      physico-mechanical features of IR clusters contribute to insulin resistance and
+      have implications for improved therapeutic approaches.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Dall’Agnese, Alessandra
+AU  - Dall’Agnese A
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Platt, Jesse M.
+AU  - Platt JM
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Zheng, Ming M.
+AU  - Zheng MM
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Friesen, Max
+AU  - Friesen M
+AUID- ORCID: 0000-0002-6699-6619
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Dall’Agnese, Giuseppe
+AU  - Dall’Agnese G
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Blaise, Alyssa M.
+AU  - Blaise AM
+AUID- ORCID: 0000-0001-9958-4488
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Spinelli, Jessica B.
+AU  - Spinelli JB
+AUID- ORCID: 0000-0003-3657-4578
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Henninger, Jonathan E.
+AU  - Henninger JE
+AUID- ORCID: 0000-0002-9604-2007
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Tevonian, Erin N.
+AU  - Tevonian EN
+AD  - grid.116068.80000 0001 2341 2786Department of Biological Engineering,
+      Massachusetts Institute of Technology, Cambridge, MA 02139 USA
+FAU - Hannett, Nancy M.
+AU  - Hannett NM
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Lazaris, Charalampos
+AU  - Lazaris C
+AUID- ORCID: 0000-0002-7345-8288
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Drescher, Hannah K.
+AU  - Drescher HK
+AD  - grid.32224.350000 0004 0386 9924Division of Gastroenterology, Department of
+      Medicine, Massachusetts General Hospital, Boston, MA 02114 USA
+FAU - Bartsch, Lea M.
+AU  - Bartsch LM
+AD  - grid.32224.350000 0004 0386 9924Division of Gastroenterology, Department of
+      Medicine, Massachusetts General Hospital, Boston, MA 02114 USA
+FAU - Kilgore, Henry R.
+AU  - Kilgore HR
+AUID- ORCID: 0000-0003-4851-9656
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Jaenisch, Rudolf
+AU  - Jaenisch R
+AUID- ORCID: 0000-0002-2540-7099
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Griffith, Linda G.
+AU  - Griffith LG
+AUID- ORCID: 0000-0002-1801-5548
+AD  - grid.116068.80000 0001 2341 2786Department of Biological Engineering,
+      Massachusetts Institute of Technology, Cambridge, MA 02139 USA
+FAU - Cisse, Ibrahim I.
+AU  - Cisse II
+AUID- ORCID: 0000-0002-8764-1809
+AD  - grid.116068.80000 0001 2341 2786Department of Physics, Massachusetts Institute of
+      Technology, Cambridge, MA 02139 USA
+FAU - Jeppesen, Jacob F.
+AU  - Jeppesen JF
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Lee, Tong I.
+AU  - Lee TI
+AUID- ORCID: 0000-0003-1847-0898
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+FAU - Young, Richard A.
+AU  - Young RA
+AUID- ORCID: 0000-0001-8855-8647
+AD  - grid.270301.70000 0001 2292 6283Whitehead Institute for Biomedical Research,
+      Cambridge, MA 02142 USA
+LA  - eng
+PT  - Journal Article
+DEP - 20221206
+PHST- 2022/10/31 [received]
+PHST- 2022/11/17 [accepted]
+TA  - Nat Commun
+JT  - Nature Communications
+AID - 35176 [pii]
+AID - 10.1038/s41467-022-35176-7 [doi]
+SO  - Nat Commun. 2022 Dec 6;13:. doi:10.1038/s41467-022-35176-7.
