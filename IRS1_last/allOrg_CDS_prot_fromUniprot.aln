@@ -1,290 +1,184 @@
 CLUSTAL 2.1 multiple sequence alignment
 
 
-P35568_Homo_sapiens              MASPPESDGFSDVRKVGYLRKPKSMHKRFFVLRAASEAGGPARLEYYENE
-Q28224_Chlorocebus_aethiops      MASPPESDGFSDVRKVGYLRKPKSMHKRFFVLRAASETGDPARLEYYENE
-P35570_Rattus_norvegicus         MASPPDTDGFSDVRKVGYLRKPKSMHKRFFVLRAASEAGGPARLEYYENE
-P35569_Mus_musculus              MASPPDTDGFSDVRKVGYLRKPKSMHKRFFVLRAASEAGGPARLEYYENE
-                                 *****::******************************:*.**********
+P35568_Homo_sapiens               MASPPE---SDGFSDVRKVGYLRKPKSMHKRFFVLRAASEAGGPARLEYY
+_Q28224_Chlorocebus_aethiops      MASPPE---SDGFSDVRKVGYLRKPKSMHKRFFVLRAASETGDPARLEYY
+_P35570_Rattus_norvegicus         MASPPD---TDGFSDVRKVGYLRKPKSMHKRFFVLRAASEAGGPARLEYY
+_P35569_Mus_musculus              MASPPD---TDGFSDVRKVGYLRKPKSMHKRFFVLRAASEAGGPARLEYY
+_P84770_Xenopus_laevis            MASPTDPQAQENFSDVRKVGYLRKPKSMHKRFFVLRAASES-SLARLEYY
+                                  ****.:    :.****************************: . ******
 
-P35568_Homo_sapiens              KKWRHKSSAPKRSIPLESCFNINKRADSKNKHLVALYTRDEHFAIAADSE
-Q28224_Chlorocebus_aethiops      KKWRHKSSAPKRSIPLESCFNINKRADSKNKHLVALYTRDEHFAIAADSE
-P35570_Rattus_norvegicus         KKWRHKSSAPKRSIPLESCFNINKRADSKNKHLVALYTRDEHFAIAADSE
-P35569_Mus_musculus              KKWRHKSSAPKRSIPLESCFNINKRADSKNKHLVALYTRDEHFAIAADSE
-                                 **************************************************
+P35568_Homo_sapiens               ENEKKWRHKSSAPKRSIPLESCFNINKRADSKNKHLVALYTRDEHFAIAA
+_Q28224_Chlorocebus_aethiops      ENEKKWRHKSSAPKRSIPLESCFNINKRADSKNKHLVALYTRDEHFAIAA
+_P35570_Rattus_norvegicus         ENEKKWRHKSSAPKRSIPLESCFNINKRADSKNKHLVALYTRDEHFAIAA
+_P35569_Mus_musculus              ENEKKWRHKSSAPKRSIPLESCFNINKRADSKNKHLVALYTRDEHFAIAA
+_P84770_Xenopus_laevis            ENEKKWRHKSGAPKRSIPLESCFNINKRADSKNKHLVALYTKDECFAIAA
+                                  **********.******************************:** *****
 
-P35568_Homo_sapiens              AEQDSWYQALLQLHNRAKGHHDGAAALGAGGGGGSCSGSSGLGEAGEDLS
-Q28224_Chlorocebus_aethiops      AEQDSWYQALLQLHNRAKGHHDGAAALGAGGGGGSCSGSSGLGEAGEDLS
-P35570_Rattus_norvegicus         AEQDSWYQALLQLHNRAKAHHDGAG----GGCGGSCSGSSGVGEAGEDLS
-P35569_Mus_musculus              AEQDSWYQALLQLHNRAKAHHDGAG----GGCGGSCSGSSGVGEAGEDLS
-                                 ******************.*****.    ** *********:********
+P35568_Homo_sapiens               DSEAEQDSWYQALLQLHNRAKGHHDGAAALGAGGGGGSCSGSSGLGEAGE
+_Q28224_Chlorocebus_aethiops      DSEAEQDSWYQALLQLHNRAKGHHDGAAALGAGGGGGSCSGSSGLGEAGE
+_P35570_Rattus_norvegicus         DSEAEQDSWYQALLQLHNRAKAHHDGAG----GGCGGSCSGSSGVGEAGE
+_P35569_Mus_musculus              DSEAEQDSWYQALLQLHNRAKAHHDGAG----GGCGGSCSGSSGVGEAGE
+_P84770_Xenopus_laevis            ECEQEQEGWYQALVDLHNRGKTHHQHHN------HDGAVNG-VHDGLNGD
+                                  :.* **:.*****::****.* **:          .*: .*    *  *:
 
-P35568_Homo_sapiens              YGDVPPGPAFKEVWQVILKPKGLGQTKNLIGIYRLCLTSKTISFVKLNSE
-Q28224_Chlorocebus_aethiops      YGDVPPGPAFKEVWQVILKPKGLGQTKNLIGIYRLCLTSKTISFVKLNSE
-P35570_Rattus_norvegicus         Y-DTGPGPAFKEVWQVILKPKGLGQTKNLIGIYRLCLTSKTISFVKLNSE
-P35569_Mus_musculus              Y-DTGPGPAFKEVWQVILKPKGLGQTKNLIGIYRLCLTSKTISFVKLNSE
-                                 * *. *********************************************
+P35568_Homo_sapiens               DLSYGDVPPGPAFKEVWQVILKPKGLGQTKNLIGIYRLCLTSKTISFVKL
+_Q28224_Chlorocebus_aethiops      DLSYGDVPPGPAFKEVWQVILKPKGLGQTKNLIGIYRLCLTSKTISFVKL
+_P35570_Rattus_norvegicus         DLSY-DTGPGPAFKEVWQVILKPKGLGQTKNLIGIYRLCLTSKTISFVKL
+_P35569_Mus_musculus              DLSY-DTGPGPAFKEVWQVILKPKGLGQTKNLIGIYRLCLTSKTISFVKL
+_P84770_Xenopus_laevis            EVYGEVTPPGLAFKEVWQVIMKPKGLGQLKNLVGIYRLCLTNRTISLVKL
+                                  ::    . ** *********:******* ***:********.:***:***
 
-P35568_Homo_sapiens              AAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGPGEFWMQVDDSVVAQNMH
-Q28224_Chlorocebus_aethiops      AAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGPGEFWMQVDDSVVAQNMH
-P35570_Rattus_norvegicus         AAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGPGEFWMQVDDSVVAQNMH
-P35569_Mus_musculus              AAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGPGEFWMQVDDSVVAQNMH
-                                 **************************************************
+P35568_Homo_sapiens               NSEAAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGPGEFWMQVDDSVVAQ
+_Q28224_Chlorocebus_aethiops      NSEAAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGPGEFWMQVDDSVVAQ
+_P35570_Rattus_norvegicus         NSEAAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGPGEFWMQVDDSVVAQ
+_P35569_Mus_musculus              NSEAAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGPGEFWMQVDDSVVAQ
+_P84770_Xenopus_laevis            NSDAAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGAGEFWMQVDDSVVAQ
+                                  **:********************************.**************
 
-P35568_Homo_sapiens              ETILEAMRAMSDEFRPRSKSQSSSNCSNPISVPLRRHHLNNPPPSQVGLT
-Q28224_Chlorocebus_aethiops      ETILEAMRAMSDEFRPRSKSQSSSNCSNPISVPLRRHHLNNPPPSQVGLT
-P35570_Rattus_norvegicus         ETILEAMRAMSDEFRPRTKSQSSSSCSNPISVPLRRHHLNNPPPSQVGLT
-P35569_Mus_musculus              ETILEAMRAMSDEFRPRSKSQSSSSCSNPISVPLRRHHLNNPPPSQVGLT
-                                 *****************:******.*************************
+P35568_Homo_sapiens               NMHETILEAMRAMSDEFRPRSKSQSSSNCSNPISVPLRRHHLNNPPPSQV
+_Q28224_Chlorocebus_aethiops      NMHETILEAMRAMSDEFRPRSKSQSSSNCSNPISVPLRRHHLNNPPPSQV
+_P35570_Rattus_norvegicus         NMHETILEAMRAMSDEFRPRTKSQSSSSCSNPISVPLRRHHLNNPPPSQV
+_P35569_Mus_musculus              NMHETILEAMRAMSDEFRPRSKSQSSSSCSNPISVPLRRHHLNNPPPSQV
+_P84770_Xenopus_laevis            NMHETILEAMKALSDEFRPRSKSQSSSNCSNPISVPLRRHHLNHPPPSQV
+                                  **********:*:*******:******.***************:******
 
-P35568_Homo_sapiens              RRSRTESITATSPASMVGGKPGSFRVRASSDGEGTMSRPASVDGSPVSPS
-Q28224_Chlorocebus_aethiops      RRSRTESITATSPASMVGGKPGSFRVRASSDGEGTMSRPASVDGSPVSPS
-P35570_Rattus_norvegicus         RRSRTESITATSPASMVGGKPGSFRVRASSDGEGTMSRPASVDGSPVSPS
-P35569_Mus_musculus              RRSRTESITATSPASMVGGKPGSFRVRASSDGEGTMSRPASVDGSPVSPS
-                                 **************************************************
+P35568_Homo_sapiens               GLTRRSRTESITATSPASMVGGK-PGSFRVRASSDGEGTMSRPASVDGSP
+_Q28224_Chlorocebus_aethiops      GLTRRSRTESITATSPASMVGGK-PGSFRVRASSDGEGTMSRPASVDGSP
+_P35570_Rattus_norvegicus         GLTRRSRTESITATSPASMVGGK-PGSFRVRASSDGEGTMSRPASVDGSP
+_P35569_Mus_musculus              GLTRRSRTESITATSPASMVGGK-PGSFRVRASSDGEGTMSRPASVDGSP
+_P84770_Xenopus_laevis            GLNRRARTESATATSPAGGAAKHGSSSFRVRASSDGEGTMSRPASMEGSP
+                                  **.**:**** ******. .. : ..*******************::***
 
-P35568_Homo_sapiens              TNRTHAHRHRGSARLHPPLNHSRSIPMPASRCSPSATSPVSLSSSSTSGH
-Q28224_Chlorocebus_aethiops      TNRTHAHRHRGSARLHPPLNHSRSIPMPASRCSPSATSPVSLSSSSTSGH
-P35570_Rattus_norvegicus         TNRTHAHRHRGSSRLHPPLNHSRSIPMPSSRCSPSATSPVSLSSSSTSGH
-P35569_Mus_musculus              TNRTHAHRHRGSSRLHPPLNHSRSIPMPSSRCSPSATSPVSLSSSSTSGH
-                                 ************:***************:*********************
+P35568_Homo_sapiens               VSPSTNRTHAHRHRGSARLHPPLNHSRSIPMPASRCSPSATSPVSLSSSS
+_Q28224_Chlorocebus_aethiops      VSPSTNRTHAHRHRGSARLHPPLNHSRSIPMPASRCSPSATSPVSLSSSS
+_P35570_Rattus_norvegicus         VSPSTNRTHAHRHRGSSRLHPPLNHSRSIPMPSSRCSPSATSPVSLSSSS
+_P35569_Mus_musculus              VSPSTNRTHAHRHRGSSRLHPPLNHSRSIPMPSSRCSPSATSPVSLSSSS
+_P84770_Xenopus_laevis            VSPSASRTQSHRHRGSSRLHPPLNHSRSIPMPATRCSPSATSPVSLSSSS
+                                  ****:.**::******:***************::****************
 
-P35568_Homo_sapiens              GSTSDCLFPRRSSASVSGSPSDGGFISSDEYGSSPCDFRSSFRSVTPDSL
-Q28224_Chlorocebus_aethiops      GSTSDCLFPRRSSASVSGSPSDGGFISSDEYGSSPCDFRSSFRSVTPDSL
-P35570_Rattus_norvegicus         GSTSDCLFPRRSSASVSGSPSDGGFISSDEYGSSPCDFRSSFRSVTPDSL
-P35569_Mus_musculus              GSTSDCLFPRRSSASVSGSPSDGGFISSDEYGSSPCDFRSSFRSVTPDSL
-                                 **************************************************
+P35568_Homo_sapiens               TSGHGSTSDCLFPRRSSASVSGSPSDGGFISSDEYGSSPCDFRSSFRSVT
+_Q28224_Chlorocebus_aethiops      TSGHGSTSDCLFPRRSSASVSGSPSDGGFISSDEYGSSPCDFRSSFRSVT
+_P35570_Rattus_norvegicus         TSGHGSTSDCLFPRRSSASVSGSPSDGGFISSDEYGSSPCDFRSSFRSVT
+_P35569_Mus_musculus              TSGHGSTSDCLFPRRSSASVSGSPSDGGFISSDEYGSSPCDFRSSFRSVT
+_P84770_Xenopus_laevis            TSGHGSTSDCMCPRRSSASISGSPSDGGFISSDEYGSSPCDFRSSFRSVT
+                                  **********: *******:******************************
 
-P35568_Homo_sapiens              GHTPPARGEEELSNYICMGGKGPSTLTAPNGHYILSRGGNGHRCTPGTGL
-Q28224_Chlorocebus_aethiops      GHTPPARGEEELSNYICMGGKGPSTLTAPNGHYILSRGGNGHRYTPGTGL
-P35570_Rattus_norvegicus         GHTPPARGEEELSNYICMGGKGASTLTAPNGHYILSRGGNGHRYIPGATM
-P35569_Mus_musculus              GHTPPARGEEELSNYICMGGKGASTLAAPNGHYILSRGGNGHRYIPGANL
-                                 **********************.***:****************  **: :
+P35568_Homo_sapiens               PDSLGHTPPARGEEELSNYICMGGKGPSTLTAPNGHYILSRGGNGHRCTP
+_Q28224_Chlorocebus_aethiops      PDSLGHTPPARGEEELSNYICMGGKGPSTLTAPNGHYILSRGGNGHRYTP
+_P35570_Rattus_norvegicus         PDSLGHTPPARGEEELSNYICMGGKGASTLTAPNGHYILSRGGNGHRYIP
+_P35569_Mus_musculus              PDSLGHTPPARGEEELSNYICMGGKGASTLAAPNGHYILSRGGNGHRYIP
+_P84770_Xenopus_laevis            PDSMGHTPPAR-EEELNNYICMGKSSSHLQRGPQQRYQPSRG--------
+                                  ***:******* ****.****** ...    .*: :*  ***        
 
-P35568_Homo_sapiens              GTSPALAGDEAASAADLDNRFRKRTHSAGTSPTITHQKTPSQSSVASIEE
-Q28224_Chlorocebus_aethiops      GTSPALAGDEASSAADLDNRFRKRTHSAGTSPTITHQKTPSQSSVASIEE
-P35570_Rattus_norvegicus         GTSPALTGDEAAGAADLDNRFRKRTHSAGTSPTISHQKTPSQSSVVSIEE
-P35569_Mus_musculus              GTSPALPGDEAAGAADLDNRFRKRTHSAGTSPTISHQKTPSQSSVASIEE
-                                 ******.****:.*********************:**********.****
+P35568_Homo_sapiens               GTGLGTSPALAGDEAASAADLDNRFRKRTHSAGTSP-TITHQKTPSQSSV
+_Q28224_Chlorocebus_aethiops      GTGLGTSPALAGDEASSAADLDNRFRKRTHSAGTSP-TITHQKTPSQSSV
+_P35570_Rattus_norvegicus         GATMGTSPALTGDEAAGAADLDNRFRKRTHSAGTSP-TISHQKTPSQSSV
+_P35569_Mus_musculus              GANLGTSPALPGDEAAGAADLDNRFRKRTHSAGTSP-TISHQKTPSQSSV
+_P84770_Xenopus_laevis            ---------------EELTDFDKVFRKRTHSSGTSPPTVSHQKTPSQS--
+                                                    :*:*: *******:**** *::********  
 
-P35568_Homo_sapiens              YTEMMP-AYPPGGGSGGRLPGHRHSAFVPTRSYPEEGLEMHPLERRGGHH
-Q28224_Chlorocebus_aethiops      YTEMMP-AYPPGGGSGGRLPGHRHSAFVPTHSYPEEGLEMHPLERRGGHH
-P35570_Rattus_norvegicus         YTEMMPAAYPPGGGSGGRLPGYRHSAFVPTHSYPEEGLEMHHLERRGGHH
-P35569_Mus_musculus              YTEMMPAAYPPGGGSGGRLPGYRHSAFVPTHSYPEEGLEMHHLERRGGHH
-                                 ****** **************:********:********** ********
+P35568_Homo_sapiens               ASIEEYTEMMP-AYPPGGGSGGRLPGHRHSAFVPTRSYPEEGLEMHPLER
+_Q28224_Chlorocebus_aethiops      ASIEEYTEMMP-AYPPGGGSGGRLPGHRHSAFVPTHSYPEEGLEMHPLER
+_P35570_Rattus_norvegicus         VSIEEYTEMMPAAYPPGGGSGGRLPGYRHSAFVPTHSYPEEGLEMHHLER
+_P35569_Mus_musculus              ASIEEYTEMMPAAYPPGGGSGGRLPGYRHSAFVPTHSYPEEGLEMHHLER
+_P84770_Xenopus_laevis            -SIEEYTEMMP-------THPVRLTSFRHSAFVPTYSYPEECLDLHLEGS
+                                   **********           **...******** ***** *::*    
 
-P35568_Homo_sapiens              RPDSSTLHTDDGYMPMSPGVAPVPSGRKGSGDYMPMSPKSVSAPQQIINP
-Q28224_Chlorocebus_aethiops      RPDSSTLHTDDGYMPMSPGVAPVPSSRKGSGDYMPMSPKSVSAPQQIINP
-P35570_Rattus_norvegicus         RPDSSNLHTDDGYMPMSPGVAPVPSNRKGNGDYMPMSPKSVSAPQQIINP
-P35569_Mus_musculus              RPDTSNLHTDDGYMPMSPGVAPVPSNRKGNGDYMPMSPKSVSAPQQIINP
-                                 ***:*.*******************.***.********************
+P35568_Homo_sapiens               RGGHHRPDSSTLHTDDGYMPMSPGVAPVPSGRKGSGDYMPMSPKSVSAPQ
+_Q28224_Chlorocebus_aethiops      RGGHHRPDSSTLHTDDGYMPMSPGVAPVPSSRKGSGDYMPMSPKSVSAPQ
+_P35570_Rattus_norvegicus         RGGHHRPDSSNLHTDDGYMPMSPGVAPVPSNRKGNGDYMPMSPKSVSAPQ
+_P35569_Mus_musculus              RGGHHRPDTSNLHTDDGYMPMSPGVAPVPSNRKGNGDYMPMSPKSVSAPQ
+_P84770_Xenopus_laevis            RANHK---------DDGYMPMSPGVAPVSTKTN---DYMPMSPKSVSAPQ
+                                  *..*:         **************.:  :   **************
 
-P35568_Homo_sapiens              IRRHPQRVDPNGYMMMSPSGGCSPDIGGGPSSSSSSSNAVPSGTSYGKLW
-Q28224_Chlorocebus_aethiops      IRRHPQRVDPNGYMMMSPSGGCSPDIGGGPSSSSSS--TVPSGSSYGKLW
-P35570_Rattus_norvegicus         IRRHPQRVDPNGYMMMSPSGSCSPDIGGG-SCSSSSISAAPSGSSYGKPW
-P35569_Mus_musculus              IRRHPQRVDPNGYMMMSPSGSCSPDIGGG-SSSSSSISAAPSGSSYGKPW
-                                 ********************.******** *.****  :.***:**** *
+P35568_Homo_sapiens               QIINPIRRHPQRVDPNGYMMMSPSGGCSPDIGGGPSSSSSSSNAVPSGTS
+_Q28224_Chlorocebus_aethiops      QIINPIRRHPQRVDPNGYMMMSPSGGCSPDIGGGPSSSSSS--TVPSGSS
+_P35570_Rattus_norvegicus         QIINPIRRHPQRVDPNGYMMMSPSGSCSPDIGGG-SCSSSSISAAPSGSS
+_P35569_Mus_musculus              QIINPIRRHPQRVDPNGYMMMSPSGSCSPDIGGG-SSSSSSISAAPSGSS
+_P84770_Xenopus_laevis            QIINP--RWHSAVDSNGYMMMSPSGSCS-----------------PDNTN
+                                  *****  *  . **.**********.**                 *..:.
 
-P35568_Homo_sapiens              TNGVGGHHSHVLPHPKPPVESSGGKLLPCTGDYMNMSPVGDSNTSSPSDC
-Q28224_Chlorocebus_aethiops      TKGVGAHNSQVLLHPKPPVESSGGKLLPCTGDYMNMSPVGDSNTSSPSDC
-P35570_Rattus_norvegicus         TNGVGGHHTHALPHAKPPVESGGGKLLPCTGDYMNMSPVGDSNTSSPSEC
-P35569_Mus_musculus              TNGVGGHHTHALPHAKPPVESGGGKLLPCTGDYMNMSPVGDSNTSSPSEC
-                                 *:***.*:::.* *.******.**************************:*
+P35568_Homo_sapiens               YGKLWTNGVGGHHSHVLPHPKPPVESSGGKLLPCTGDYMNMSPVGDSNTS
+_Q28224_Chlorocebus_aethiops      YGKLWTKGVGAHNSQVLLHPKPPVESSGGKLLPCTGDYMNMSPVGDSNTS
+_P35570_Rattus_norvegicus         YGKPWTNGVGGHHTHALPHAKPPVESGGGKLLPCTGDYMNMSPVGDSNTS
+_P35569_Mus_musculus              YGKPWTNGVGGHHTHALPHAKPPVESGGGKLLPCTGDYMNMSPVGDSNTS
+_P84770_Xenopus_laevis            YSKIWTNGT---------NPKLSIDSIEG-KLPCS-DYINMSPASGSTTS
+                                  *.* **:*.         :.* .::*  *  ***: **:****...*.**
 
-P35568_Homo_sapiens              YYGPEDPQHKPVLSYYSLPRSFKHTQRPGEPEEGARHQHLRLSTSSGRLL
-Q28224_Chlorocebus_aethiops      YYGPEDPQHKPVLSYYSLPRSFKHTQRPGEPEEGARHQHLRLSTSSGRLL
-P35570_Rattus_norvegicus         YYGPEDPQHKPVLSYYSLPRSFKHTQRPGEPEEGARHQHLRLSSSSGRLR
-P35569_Mus_musculus              YYGPEDPQHKPVLSYYSLPRSFKHTQRPGEPEEGARHQHLRLSSSSGRLR
-                                 *******************************************:***** 
+P35568_Homo_sapiens               SPSDCYYGPEDPQHKPVLSYYSLPRSFKHTQRPGEPEEGARHQHLRLSTS
+_Q28224_Chlorocebus_aethiops      SPSDCYYGPEDPQHKPVLSYYSLPRSFKHTQRPGEPEEGARHQHLRLSTS
+_P35570_Rattus_norvegicus         SPSECYYGPEDPQHKPVLSYYSLPRSFKHTQRPGEPEEGARHQHLRLSSS
+_P35569_Mus_musculus              SPSECYYGPEDPQHKPVLSYYSLPRSFKHTQRPGEPEEGARHQHLRLSSS
+_P84770_Xenopus_laevis            TPPDSYLNSVEESTKPVYSYFSLPRSFKHVHRKSE------DGNLRISAN
+                                  :*.:.* .. : . *** **:********.:* .*      . :**:*:.
 
-P35568_Homo_sapiens              YAATADDSSSSTSSDSLGGGYCGARLEPSLPHPHHQVLQPHLPRKVDTAA
-Q28224_Chlorocebus_aethiops      YAATADDSSSSTSSDSLGGGYCGARLEPSLPHPHHQVLQPHLPRKVDTAA
-P35570_Rattus_norvegicus         YTATAEDSSSSTSSDSLGGGYCGARPESSVTHPHHHALQPHLPRKVDTAA
-P35569_Mus_musculus              YTATAEDSSSSTSSDSLGGGYCGARPESSLTHPHHHVLQPHLPRKVDTAA
-                                 *:***:******************* *.*:.****:.*************
+P35568_Homo_sapiens               SGRLLYAATADDSSSSTSSDSLGGGYCGARLEPSLPHPHHQVLQPHLPRK
+_Q28224_Chlorocebus_aethiops      SGRLLYAATADDSSSSTSSDSLGGGYCGARLEPSLPHPHHQVLQPHLPRK
+_P35570_Rattus_norvegicus         SGRLRYTATAEDSSSSTSSDSLGGGYCGARPESSVTHPHHHALQPHLPRK
+_P35569_Mus_musculus              SGRLRYTATAEDSSSSTSSDSLGGGYCGARPESSLTHPHHHVLQPHLPRK
+_P84770_Xenopus_laevis            SGHNLYTE--DSSSSSTSSDSLGG------------------QDPQQPRK
+                                  **:  *:   :.************                   :*: ***
 
-P35568_Homo_sapiens              QTNSRLARPTRLSLGDPKASTLPRAREQQQQQQ-----------PLLHPP
-Q28224_Chlorocebus_aethiops      QTNSRLARPTRLSLGDPKASTLPRAREQQQQQQQQQQQQQQQQQPLLHPP
-P35570_Rattus_norvegicus         QTNSRLARPTRLSLGDPKASTLPRVREQQQQQQQQQQ-------SSLHPP
-P35569_Mus_musculus              QTNSRLARPTRLSLGDPKASTLPRVREQQQQQQ-----------SSLHPP
-                                 ************************.********           . ****
+P35568_Homo_sapiens               VDTAAQTNSRLARPTRLSLGDP-KASTLPRAREQQQQQQ-----------
+_Q28224_Chlorocebus_aethiops      VDTAAQTNSRLARPTRLSLGDP-KASTLPRAREQQQQQQQQQQQQQQQQQ
+_P35570_Rattus_norvegicus         VDTAAQTNSRLARPTRLSLGDP-KASTLPRVREQQQQQQQQQQ-------
+_P35569_Mus_musculus              VDTAAQTNSRLARPTRLSLGDP-KASTLPRVREQQQQQQ-----------
+_P84770_Xenopus_laevis            GEGCIQG-KRLTRPTRLSLENSSKASTLPRVREP----------------
+                                   : . *  .**:******* :. *******.**                 
 
-P35568_Homo_sapiens              EPKSPGEYVNIEFGSDQSGYLSGPVAFHSSPSVRCPSQLQPAPREEETGT
-Q28224_Chlorocebus_aethiops      EPKSPGEYVNIEFGSDQPGYLSGPVASRSSPSVRCPSQLQPAPREEETGT
-P35570_Rattus_norvegicus         EPKSPGEYVNIEFGSGQPGYLAGPATSRSSPSVRCLPQLHPAPREE-TGS
-P35569_Mus_musculus              EPKSPGEYVNIEFGSGQPGYLAGPATSRSSPSVRCPPQLHPAPREE-TGS
-                                 ***************.*.***:**.: :******* .**:****** **:
+P35568_Homo_sapiens               PLLHPPEPKSPGEYVNIEFGSDQSGYLSGPVAFHSSPSVRCPSQLQPAPR
+_Q28224_Chlorocebus_aethiops      PLLHPPEPKSPGEYVNIEFGSDQPGYLSGPVASRSSPSVRCPSQLQPAPR
+_P35570_Rattus_norvegicus         SSLHPPEPKSPGEYVNIEFGSGQPGYLAGPATSRSSPSVRCLPQLHPAPR
+_P35569_Mus_musculus              SSLHPPEPKSPGEYVNIEFGSGQPGYLAGPATSRSSPSVRCPPQLHPAPR
+_P84770_Xenopus_laevis            --ALPPEPKSPGEYVNIEFN---DKVFSG----GLVPSMCSLPFVQSRVV
+                                      ***************.      ::*       **: . . ::.   
 
-P35568_Homo_sapiens              EEYMKMDLGPGRRAAWQESTGVEMGRLGPAPPGAASICRPTRAVPSSRGD
-Q28224_Chlorocebus_aethiops      EEYMKMDLGPGRRAAWQESTGVEMGRLGPAPPGAASICRPTRAVPSSRGD
-P35570_Rattus_norvegicus         EEYMNMDLGPGRRATWQESGGVELGRVGPAPPGAASICRPTRSVPNSRGD
-P35569_Mus_musculus              EEYMNMDLGPGRRATWQESGGVELGRIGPAPPGSATVCRPTRSVPNSRGD
-                                 ****:*********:**** ***:**:******:*::*****:**.****
+P35568_Homo_sapiens               EEETGTEEYMKMDLGPGRRAAWQESTGVEMGRLGPA----PPGAASICR-
+_Q28224_Chlorocebus_aethiops      EEETGTEEYMKMDLGPGRRAAWQESTGVEMGRLGPA----PPGAASICR-
+_P35570_Rattus_norvegicus         EE-TGSEEYMNMDLGPGRRATWQESGGVELGRVGPA----PPGAASICR-
+_P35569_Mus_musculus              EE-TGSEEYMNMDLGPGRRATWQESGGVELGRIGPA----PPGSATVCR-
+_P84770_Xenopus_laevis            PQRENLSEYMNMDLGVWRAKTSYASTSSYEPPNKPVNSVCPTETCSSSRP
+                                   :  . .***:****  *  :   * .       *.    *. :.: .* 
 
-P35568_Homo_sapiens              YMTMQMSCPRQSYVDTSPAAPVSYADMRTGIAAEEVSLPRATMAAASSSS
-Q28224_Chlorocebus_aethiops      YMTMQMSCPRQSYVDTSPIAPVSYADMRTGIAAEEVSLPRATMAAAASSS
-P35570_Rattus_norvegicus         YMTMQIGCPRQSYVDTSPVAPVSYADMRTGIAAEKVSLPRTTGAAPPPSS
-P35569_Mus_musculus              YMTMQIGCPRQSYVDTSPVAPVSYADMRTGIAAEKASLPRPTGAAPPPSS
-                                 *****:.*********** ***************:.****.* **...**
+P35568_Homo_sapiens               PTRAVPSSRGDYMTMQMSCPRQSYVDTSPAAPVSYADMRTGIAAEEVSLP
+_Q28224_Chlorocebus_aethiops      PTRAVPSSRGDYMTMQMSCPRQSYVDTSPIAPVSYADMRTGIAAEEVSLP
+_P35570_Rattus_norvegicus         PTRSVPNSRGDYMTMQIGCPRQSYVDTSPVAPVSYADMRTGIAAEKVSLP
+_P35569_Mus_musculus              PTRSVPNSRGDYMTMQIGCPRQSYVDTSPVAPVSYADMRTGIAAEKASLP
+_P84770_Xenopus_laevis            PIRGKPISR-DYMSMQLGSLCP---DYSQVPPTRLSAKSITLSSSKSNYA
+                                  * *. * ** ***:**:..      * *  .*.  :     :::.: . .
 
-P35568_Homo_sapiens              AASASP-TGPQGA-AELAAHSSLLGGPQGPGGMSAFTRVNLSPNRNQSAK
-Q28224_Chlorocebus_aethiops      AASASP-TGPQGA-AELAAHSSLLGGAQGPGGMSAFTRVNLSPNRNQSAK
-P35570_Rattus_norvegicus         TASASASVTPQGA-AEQAAHSSLLGGPQGPGGMSAFTRVNLSPNHNQSAK
-P35569_Mus_musculus              TASSSASVTPQGATAEQATHSSLLGGPQGPGGMSAFTRVNLSPNHNQSAK
-                                 :**:*. . **** ** *:*******.*****************:*****
+P35568_Homo_sapiens               RATMAAASSSSAASASP-TGPQGA-AELAAHSSLLGGPQGPGGMSAFTRV
+_Q28224_Chlorocebus_aethiops      RATMAAAASSSAASASP-TGPQGA-AELAAHSSLLGGAQGPGGMSAFTRV
+_P35570_Rattus_norvegicus         RTTGAAPPPSSTASASASVTPQGA-AEQAAHSSLLGGPQGPGGMSAFTRV
+_P35569_Mus_musculus              RPTGAAPPPSSTASSSASVTPQGATAEQATHSSLLGGPQGPGGMSAFTRV
+_P84770_Xenopus_laevis            EMSSGRVSDNIPAIAPASNSSLSE----ASRSSLLGQGSGP---SAFTRV
+                                  . : .  . . .* :..   . .     *::*****  .**   ******
 
-P35568_Homo_sapiens              VIRADPQGCRRRHSSETFSSTPSATRVGNTVPFGAGAAVGGGGGSSSS-S
-Q28224_Chlorocebus_aethiops      VIRADPQGCRRRHSSETFSSTPSATRVGNTVPFGAGAAIGGSGGSSSS-S
-P35570_Rattus_norvegicus         VIRADTQGCRRRHSSETFSAP---TRAANTVSFGAGAAGGGSGGG----S
-P35569_Mus_musculus              VIRADTQGCRRRHSSETFSAP---TRAGNTVPFGAGAAVGGSGGGGGGGS
-                                 *****.*************:.   **..***.****** **.**.    *
+P35568_Homo_sapiens               NLSPNRNQSAKVIRADPQGCRRRHSSETFSSTPSATRVGNTVPFGAGAAV
+_Q28224_Chlorocebus_aethiops      NLSPNRNQSAKVIRADPQGCRRRHSSETFSSTPSATRVGNTVPFGAGAAI
+_P35570_Rattus_norvegicus         NLSPNHNQSAKVIRADTQGCRRRHSSETFSAP---TRAANTVSFGAGAAG
+_P35569_Mus_musculus              NLSPNHNQSAKVIRADTQGCRRRHSSETFSAP---TRAGNTVPFGAGAAV
+_P84770_Xenopus_laevis            SLSPNRNPSAKVIRAGDPQGRRRHSSETFSST------PTTARVTTGPVS
+                                  .****:* *******.    **********:.       .*. . :*.. 
 
-P35568_Homo_sapiens              EDVKRHSSASFENVWLRPGELGGAPKEPAKLCGAAGGLENGLNYIDLDLV
-Q28224_Chlorocebus_aethiops      EDVKRHSSASFENVWLRPGELGGAPKEPAQLCGAAGGLENGLNYIDLDLV
-P35570_Rattus_norvegicus         EDVKRHSSASFENVWLRPGDLGGASKESAPGCGAAGGLEKSLNYIDLDLV
-P35569_Mus_musculus              EDVKRHSSASFENVWLRPGDLGGVSKESAPVCGAAGGLEKSLNYIDLDLA
-                                 *******************:***..**.*  ********:.********.
+P35568_Homo_sapiens               GGGGGSSSS-SEDVKRHSSASFENVWLRPGELGGAPKEPAKLCGAAGGLE
+_Q28224_Chlorocebus_aethiops      GGSGGSSSS-SEDVKRHSSASFENVWLRPGELGGAPKEPAQLCGAAGGLE
+_P35570_Rattus_norvegicus         GGSGGG----SEDVKRHSSASFENVWLRPGDLGGASKESAPGCGAAGGLE
+_P35569_Mus_musculus              GGSGGGGGGGSEDVKRHSSASFENVWLRPGDLGGVSKESAPVCGAAGGLE
+_P84770_Xenopus_laevis            G----------EDVKRHSSASFENVWLRPGEIARRDS-----LQPSDHTH
+                                  *          *******************::.   .       .:.  .
 
-P35568_Homo_sapiens              KDFKQCPQECTPEPQPPPPPPPHQPLGSGESSSTRRSSEDLSAYASISFQ
-Q28224_Chlorocebus_aethiops      KDFKQRPQECTPQPQPPPPPPPHQPLGSSESSSTRRSSEDLSAYASISFQ
-P35570_Rattus_norvegicus         KDVKQHPQDCPSQQQSLPPPPPHQPLGSNEGSSPRRSSEDLSTYASINFQ
-P35569_Mus_musculus              K---EHSQDCPSQQQSLPPPPPHQPLGSNEGNSPRRSSEDLSNYASISFQ
-                                 *   : .*:*..: *. ***********.*..*.******** ****.**
+P35568_Homo_sapiens               NGLNYIDLDLVKDFKQCPQECTPEPQPPPPPPPHQPLGSGESSSTRRSSE
+_Q28224_Chlorocebus_aethiops      NGLNYIDLDLVKDFKQRPQECTPQPQPPPPPPPHQPLGSSESSSTRRSSE
+_P35570_Rattus_norvegicus         KSLNYIDLDLVKDVKQHPQDCPSQQQSLPPPPPHQPLGSNEGSSPRRSSE
+_P35569_Mus_musculus              KSLNYIDLDLAK---EHSQDCPSQQQSLPPPPPHQPLGSNEGNSPRRSSE
+_P84770_Xenopus_laevis            NGLNYIDLDLAKDLSSLDH-CNSHQSGVSHP-----------------SD
+                                  :.********.*   .  : * .. .  . *                 *:
 
-P35568_Homo_sapiens              KQPEDRQ-------------------------------------------
-Q28224_Chlorocebus_aethiops      KQPEDLQ-------------------------------------------
-P35570_Rattus_norvegicus         KQPEDRQ-------------------------------------------
-P35569_Mus_musculus              KQPEDRQPXENOPUSLAEVISMASPTDPQAQENFSDVRKVGYLRKPKSMH
-                                 ***** *                                           
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              KRFFVLRAASESSLARLEYYENEKKWRHKSGAPKRSIPLESCFNINKRAD
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              SKNKHLVALYTKDECFAIAAECEQEQEGWYQALVDLHNRGKTHHQHHNHD
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              GAVNGVHDGLNGDEVYGEVTPPGLAFKEVWQVIMKPKGLGQLKNLVGIYR
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              LCLTNRTISLVKLNSDAAAVVLQLMNIRRCGHSENFFFIEVGRSAVTGAG
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              EFWMQVDDSVVAQNMHETILEAMKALSDEFRPRSKSQSSSNCSNPISVPL
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              RRHHLNHPPPSQVGLNRRARTESATATSPAGGAAKHGSSSFRVRASSDGE
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              GTMSRPASMEGSPVSPSASRTQSHRHRGSSRLHPPLNHSRSIPMPATRCS
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              PSATSPVSLSSSSTSGHGSTSDCMCPRRSSASISGSPSDGGFISSDEYGS
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              SPCDFRSSFRSVTPDSMGHTPPAREEELNNYICMGKSSSHLQRGPQQRYQ
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              PSRGEELTDFDKVFRKRTHSSGTSPPTVSHQKTPSQSSIEEYTEMMPTHP
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              VRLTSFRHSAFVPTYSYPEECLDLHLEGSRANHKDDGYMPMSPGVAPVST
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              KTNDYMPMSPKSVSAPQQIINPRWHSAVDSNGYMMMSPSGSCSPDNTNYS
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              KIWTNGTNPKLSIDSIEGKLPCSDYINMSPASGSTTSTPPDSYLNSVEES
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              TKPVYSYFSLPRSFKHVHRKSEDGNLRISANSGHNLYTEDSSSSSTSSDS
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              LGGQDPQQPRKGEGCIQGKRLTRPTRLSLENSSKASTLPRVREPALPPEP
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              KSPGEYVNIEFNDKVFSGGLVPSMCSLPFVQSRVVPQRENLSEYMNMDLG
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              VWRAKTSYASTSSYEPPNKPVNSVCPTETCSSSRPPIRGKPISRDYMSMQ
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              LGSLCPDYSQVPPTRLSAKSITLSSSKSNYAEMSSGRVSDNIPAIAPASN
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              SSLSEASRSSLLGQGSGPSAFTRVSLSPNRNPSAKVIRAGDPQGRRRHSS
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              ETFSSTPTTARVTTGPVSGEDVKRHSSASFENVWLRPGEIARRDSLQPSD
-                                                                                   
-
-P35568_Homo_sapiens              --------------------------------------------------
-Q28224_Chlorocebus_aethiops      --------------------------------------------------
-P35570_Rattus_norvegicus         --------------------------------------------------
-P35569_Mus_musculus              HTHNGLNYIDLDLAKDLSSLDHCNSHQSGVSHPSDDLSPYASITFHKLEE
-                                                                                   
-
-P35568_Homo_sapiens              ---------
-Q28224_Chlorocebus_aethiops      ---------
-P35570_Rattus_norvegicus         ---------
-P35569_Mus_musculus              HRSQAETEE
-                                          
+P35568_Homo_sapiens               DLSAYASISFQKQPEDRQ------
+_Q28224_Chlorocebus_aethiops      DLSAYASISFQKQPEDLQ------
+_P35570_Rattus_norvegicus         DLSTYASINFQKQPEDRQ------
+_P35569_Mus_musculus              DLSNYASISFQKQPEDRQ------
+_P84770_Xenopus_laevis            DLSPYASITFHKLEEHRSQAETEE
+                                  *** ****.*:*  *. .      
