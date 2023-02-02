@@ -1,2 +1,2 @@
-(P08151//Homo_sapiens__Human_.:0.37287,(Q9IA31//Gallus_gallus__Chicken:0.28927,(Q91661//Xenopus_laevis__Africa:0.22701,(Q0VGT2//Mus_musculus__Mouse_.:0.07355,P10070//Homo_sapiens__Human_.:0.07355)Inner1:0.15346)Inner2:0.06225)Inner3:0.08361)Inner4:0.00000;
-(((P10070//Homo_sapiens__Human_.:0.07186,Q0VGT2//Mus_musculus__Mouse_.:0.07525)Inner1:0.14957,Q91661//Xenopus_laevis__Africa:0.23090)Inner2:0.05942,Q9IA31//Gallus_gallus__Chicken:0.29210,P08151//Homo_sapiens__Human_.:0.45648)Inner3:0.00000;
+(Q91660//Xenopus_laevis__Africa:0.28716,(Q91661//Xenopus_laevis__Africa:0.22701,(Q0VGT2//Mus_musculus__Mouse_.:0.07355,P10070//Homo_sapiens__Human_.:0.07355)Inner1:0.15346)Inner2:0.06014)Inner3:0.00000;
+((P10070//Homo_sapiens__Human_.:0.07160,Q0VGT2//Mus_musculus__Mouse_.:0.07551)Inner1:0.14858,Q91661//Xenopus_laevis__Africa:0.23189,Q91660//Xenopus_laevis__Africa:0.34730)Inner2:0.00000;
